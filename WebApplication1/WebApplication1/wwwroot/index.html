@@ -1,0 +1,126 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="StyleSheet.css" rel="stylesheet" />
+    <script src="jquery-3.7.0.js"></script>
+</head>
+<body>
+    <header>
+        <h2>Current weather</h2>
+        <div>
+            <input type="text" name="name" value="" id="city" />
+            <button type="button" name="name" id="search">
+                <img src="1.svg" alt="Search Icon" />
+            </button>
+        </div>
+    </header>
+    <div id="error"><h1>404</h1><p>Not Found</p><p>Please enter a different city</p></div>
+    <main id="main">
+        <div class="head">
+            <p id="searchCity"></p>
+            <p id="dateinfo"></p>
+        </div>
+        <p id="currentWeather"></p>
+        <div class="main-container">
+            <div class="con"><img src="#" alt="Alternate Text" id="currentImg"/></div>
+            <div class="con"><h1 id="curTempC"></h1></div>
+            <div class="con">
+                <ul>
+                    <li id="li1"></li>
+                    <li id="li2"></li>
+                    <li id="li3"></li>
+                </ul>
+            </div>
+        </div>
+    </main>
+    <section id="section">
+        <p>Hourly</p>
+        <div id="forecast">
+        </div>
+    </section>
+    <script>
+        $(document).ready(function () {
+            const $error = $('#error');
+            const $main = $('#main');
+            const $section = $('#section');
+
+            $('#search').click(async function () {
+                const apiKey = 'e9a57fbd88816c626af5a5cd1ccf5699';
+                const city = $('#city').val();
+                const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`;
+
+                try {
+                    const response = await fetch(apiUrl);
+                    if (!response.ok) {
+                        throw new Error(`Ошибка: ${response.status}`);
+                    }
+                    const data = await response.json();
+
+                    $error.hide();
+                    $main.show();
+                    $section.show();
+
+                    const { temp, temp_min, temp_max } = data.main;
+                    const currentDate = new Date();
+                    const daysOfWeek = ['Воскресенье', 'Понедельник', 'Вторник', 'Среда', 'Четверг', 'Пятница', 'Суббота'];
+                    const currentDayOfWeek = daysOfWeek[currentDate.getDay()];
+                    const formattedDate = currentDate.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+                    const iconUrl = 'https://openweathermap.org/img/wn/' + data.weather[0].icon + '.png';
+
+                    $('#searchCity').html(city);
+                    $('#dateinfo').html(formattedDate);
+                    $('#currentWeather').html(data.weather[0].main);
+                    $('#currentImg').attr('src', iconUrl);
+                    $('#curTempC').html(temp.toFixed(1) + '°C');
+                    $('#li1').html("Min temperature " + temp_min.toFixed(1) + '°C');
+                    $('#li2').html("Max temperature " + temp_max.toFixed(1) + '°C');
+                    $('#li3').html("Wind Speed(m/h) " + data.wind.speed);
+
+                    const currentTime = new Date();
+                    const next24HoursTime = currentTime.getTime() + 24 * 60 * 60 * 1000;
+                    const hourlyForecastUrl = `https://api.openweathermap.org/data/2.5/forecast?q=${city}&appid=${apiKey}&units=metric`;
+                    const hourlyResponse = await fetch(hourlyForecastUrl);
+                    if (!hourlyResponse.ok) {
+                        throw new Error(`Ошибка: ${hourlyResponse.status}`);
+                    }
+                    const hourlyData = await hourlyResponse.json();
+
+                    const hourlyForecast = hourlyData.list.filter(item => {
+                        return item.dt * 1000 >= currentTime.getTime() && item.dt * 1000 < next24HoursTime;
+                    });
+
+                    $('#forecast').html(`<div class="even3hours">
+                                     <div class="item" id='curDay' style='color: darkslateblue;font-weight:600'>${currentDayOfWeek}</div>
+                                     <div class="item"><img  style='height:50px'></div>
+                                     <div class="item">Forecast: </div>
+                                     <div class="item">Temperature(°C):</div>
+                                     <div class="item">Wind Speed(m/h):</div>
+                                 </div>`);
+
+                    hourlyForecast.forEach(item => {
+                        const time = new Date(item.dt * 1000).toLocaleTimeString('en-US', { hour: 'numeric', minute: 'numeric', hour12: false });
+                        const iconUrl = 'https://openweathermap.org/img/wn/' + item.weather[0].icon + '.png';
+                        $('#forecast').append(`
+                    <div class="even3hours">
+                        <div class="item" style='color: darkslateblue;font-weight:600'>${time}</div> 
+                        <div class="item"><img src="${iconUrl}"></div>
+                        <div class="item">${item.weather[0].main}</div>
+                        <div class="item">${item.main.temp}</div>
+                        <div class="item">${item.wind.speed}</div>
+                    </div>
+                `);
+                    });
+                } catch (error) {
+                    console.error('Ошибка:', error);
+                    $main.hide();
+                    $section.hide();
+                    $error.show();
+                }
+            });
+        });
+
+    </script>
+</body>
+</html>
