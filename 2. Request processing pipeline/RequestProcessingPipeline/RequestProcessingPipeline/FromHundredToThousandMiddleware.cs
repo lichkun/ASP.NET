@@ -58,8 +58,7 @@
                         result = context.Session.GetString("number");
                         if(result == "ten")
                         {
-                            await context.Response.WriteAsync("Your number is "  + result);
-
+                            await context.Response.WriteAsync("Your number is "+ Hundreds[number / 100 - 1] +" "+ result);
                         }
                         else
                         {
