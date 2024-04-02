@@ -1,0 +1,26 @@
+D:\Проекты\ASP.NET\Number Interpreter\Number Interpreter\obj\Debug\net8.0\Number Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\ASP.NET\Number Interpreter\Number Interpreter\obj\Debug\net8.0\Number Interpreter.AssemblyInfoInputs.cache
+D:\Проекты\ASP.NET\Number Interpreter\Number Interpreter\obj\Debug\net8.0\Number Interpreter.AssemblyInfo.cs
+D:\Проекты\ASP.NET\Number Interpreter\Number Interpreter\obj\Debug\net8.0\Number Interpreter.csproj.CoreCompileInputs.cache
+D:\Проекты\ASP.NET\Number Interpreter\Number Interpreter\obj\Debug\net8.0\Number Interpreter.MvcApplicationPartsAssemblyInfo.cache
+D:\Проекты\ASP.NET\Number Interpreter\Number Interpreter\obj\Debug\net8.0\Number Interpreter.sourcelink.json
+D:\Проекты\ASP.NET\Number Interpreter\Number Interpreter\bin\Debug\net8.0\appsettings.Development.json
+D:\Проекты\ASP.NET\Number Interpreter\Number Interpreter\bin\Debug\net8.0\appsettings.json
+D:\Проекты\ASP.NET\Number Interpreter\Number Interpreter\bin\Debug\net8.0\Number Interpreter.exe
+D:\Проекты\ASP.NET\Number Interpreter\Number Interpreter\bin\Debug\net8.0\Number Interpreter.deps.json
+D:\Проекты\ASP.NET\Number Interpreter\Number Interpreter\bin\Debug\net8.0\Number Interpreter.runtimeconfig.json
+D:\Проекты\ASP.NET\Number Interpreter\Number Interpreter\bin\Debug\net8.0\Number Interpreter.dll
+D:\Проекты\ASP.NET\Number Interpreter\Number Interpreter\bin\Debug\net8.0\Number Interpreter.pdb
+D:\Проекты\ASP.NET\Number Interpreter\Number Interpreter\obj\Debug\net8.0\staticwebassets.build.json
+D:\Проекты\ASP.NET\Number Interpreter\Number Interpreter\obj\Debug\net8.0\staticwebassets.development.json
+D:\Проекты\ASP.NET\Number Interpreter\Number Interpreter\obj\Debug\net8.0\staticwebassets\msbuild.Number Interpreter.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Проекты\ASP.NET\Number Interpreter\Number Interpreter\obj\Debug\net8.0\staticwebassets\msbuild.build.Number Interpreter.props
+D:\Проекты\ASP.NET\Number Interpreter\Number Interpreter\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Number Interpreter.props
+D:\Проекты\ASP.NET\Number Interpreter\Number Interpreter\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Number Interpreter.props
+D:\Проекты\ASP.NET\Number Interpreter\Number Interpreter\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Проекты\ASP.NET\Number Interpreter\Number Interpreter\obj\Debug\net8.0\scopedcss\bundle\Number Interpreter.styles.css
+D:\Проекты\ASP.NET\Number Interpreter\Number Interpreter\obj\Debug\net8.0\Number Interpreter.dll
+D:\Проекты\ASP.NET\Number Interpreter\Number Interpreter\obj\Debug\net8.0\refint\Number Interpreter.dll
+D:\Проекты\ASP.NET\Number Interpreter\Number Interpreter\obj\Debug\net8.0\Number Interpreter.pdb
+D:\Проекты\ASP.NET\Number Interpreter\Number Interpreter\obj\Debug\net8.0\Number Interpreter.genruntimeconfig.cache
+D:\Проекты\ASP.NET\Number Interpreter\Number Interpreter\obj\Debug\net8.0\ref\Number Interpreter.dll
