@@ -1,0 +1,33 @@
+﻿body {
+    background-color: #333; 
+    color: #fff; 
+}
+
+table {
+    background-color: #444;
+}
+
+table td {
+    color: #fff;
+}
+
+.movie-container {
+    margin-bottom: 10px;
+}
+
+.movie-container img {
+    max-width: 150px;
+    border-radius: 5px;
+}
+
+.movie-title {
+    color: #00CED1; 
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.movie-description {
+    font-size: 14px;
+    line-height: 1.5;
+}

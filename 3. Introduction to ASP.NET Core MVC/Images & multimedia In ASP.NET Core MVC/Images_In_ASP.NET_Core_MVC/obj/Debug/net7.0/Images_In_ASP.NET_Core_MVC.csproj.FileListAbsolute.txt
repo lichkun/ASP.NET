@@ -1,0 +1,91 @@
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\bin\Debug\net7.0\appsettings.json
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\bin\Debug\net7.0\Images_In_ASP.NET_Core_MVC.staticwebassets.runtime.json
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\bin\Debug\net7.0\Images_In_ASP.NET_Core_MVC.exe
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\bin\Debug\net7.0\Images_In_ASP.NET_Core_MVC.deps.json
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\bin\Debug\net7.0\Images_In_ASP.NET_Core_MVC.runtimeconfig.json
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\bin\Debug\net7.0\Images_In_ASP.NET_Core_MVC.dll
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\bin\Debug\net7.0\Images_In_ASP.NET_Core_MVC.pdb
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.RazorAssemblyInfo.cache
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.RazorAssemblyInfo.cs
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\staticwebassets\msbuild.Images_In_ASP.NET_Core_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.Images_In_ASP.NET_Core_MVC.props
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Images_In_ASP.NET_Core_MVC.props
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Images_In_ASP.NET_Core_MVC.props
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\scopedcss\bundle\Images_In_ASP.NET_Core_MVC.styles.css
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\scopedcss\projectbundle\Images_In_ASP.NET_Core_MVC.bundle.scp.css
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.dll
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\refint\Images_In_ASP.NET_Core_MVC.dll
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.pdb
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\ref\Images_In_ASP.NET_Core_MVC.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\bin\Debug\net7.0\appsettings.Development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\bin\Debug\net7.0\appsettings.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\bin\Debug\net7.0\Images_In_ASP.NET_Core_MVC.staticwebassets.runtime.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\bin\Debug\net7.0\Images_In_ASP.NET_Core_MVC.exe
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\bin\Debug\net7.0\Images_In_ASP.NET_Core_MVC.deps.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\bin\Debug\net7.0\Images_In_ASP.NET_Core_MVC.runtimeconfig.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\bin\Debug\net7.0\Images_In_ASP.NET_Core_MVC.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\bin\Debug\net7.0\Images_In_ASP.NET_Core_MVC.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.AssemblyInfoInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.AssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.RazorAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.RazorAssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\staticwebassets\msbuild.Images_In_ASP.NET_Core_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.Images_In_ASP.NET_Core_MVC.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Images_In_ASP.NET_Core_MVC.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Images_In_ASP.NET_Core_MVC.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\scopedcss\bundle\Images_In_ASP.NET_Core_MVC.styles.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\scopedcss\projectbundle\Images_In_ASP.NET_Core_MVC.bundle.scp.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\refint\Images_In_ASP.NET_Core_MVC.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.genruntimeconfig.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\4. Images in ASP.NET Core MVC Applications\Images_In_ASP.NET_Core_MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\ref\Images_In_ASP.NET_Core_MVC.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\bin\Debug\net7.0\appsettings.Development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\bin\Debug\net7.0\appsettings.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\bin\Debug\net7.0\Images_In_ASP.NET_Core_MVC.staticwebassets.runtime.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\bin\Debug\net7.0\Images_In_ASP.NET_Core_MVC.exe
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\bin\Debug\net7.0\Images_In_ASP.NET_Core_MVC.deps.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\bin\Debug\net7.0\Images_In_ASP.NET_Core_MVC.runtimeconfig.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\bin\Debug\net7.0\Images_In_ASP.NET_Core_MVC.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\bin\Debug\net7.0\Images_In_ASP.NET_Core_MVC.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.AssemblyInfoInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.AssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.RazorAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.RazorAssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\staticwebassets\msbuild.Images_In_ASP.NET_Core_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.Images_In_ASP.NET_Core_MVC.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Images_In_ASP.NET_Core_MVC.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Images_In_ASP.NET_Core_MVC.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\scopedcss\bundle\Images_In_ASP.NET_Core_MVC.styles.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\scopedcss\projectbundle\Images_In_ASP.NET_Core_MVC.bundle.scp.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\refint\Images_In_ASP.NET_Core_MVC.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\Images_In_ASP.NET_Core_MVC.genruntimeconfig.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\Images In ASP.NET Core MVC\Images_In_ASP.NET_Core_MVC\obj\Debug\net7.0\ref\Images_In_ASP.NET_Core_MVC.dll

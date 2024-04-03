@@ -1,0 +1,211 @@
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.csproj.AssemblyReference.cache
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.AssemblyInfoInputs.cache
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.AssemblyInfo.cs
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.csproj.CoreCompileInputs.cache
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.RazorAssemblyInfo.cache
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.RazorAssemblyInfo.cs
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\appsettings.Development.json
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\appsettings.json
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.staticwebassets.runtime.json
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.exe
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.deps.json
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.runtimeconfig.json
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.pdb
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Azure.Core.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Azure.Identity.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Memory.Data.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\StudentsMVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets.build.json
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets.development.json
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets\msbuild.StudentsMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentsMVC.props
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentsMVC.props
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentsMVC.props
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\staticwebassets.pack.json
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\scopedcss\bundle\StudentsMVC.styles.css
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\scopedcss\projectbundle\StudentsMVC.bundle.scp.css
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.csproj.CopyComplete
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.dll
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\refint\StudentsMVC.dll
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.pdb
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.genruntimeconfig.cache
+D:\StudentsMVC\StudentsMVC\obj\Debug\net8.0\ref\StudentsMVC.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\appsettings.Development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\appsettings.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.staticwebassets.runtime.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.exe
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.deps.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.runtimeconfig.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Azure.Core.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Azure.Identity.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.csproj.AssemblyReference.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.AssemblyInfoInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.AssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.RazorAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.RazorAssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\staticwebassets.build.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\staticwebassets.development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\staticwebassets\msbuild.StudentsMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentsMVC.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentsMVC.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentsMVC.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\scopedcss\bundle\StudentsMVC.styles.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\scopedcss\projectbundle\StudentsMVC.bundle.scp.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.csproj.CopyComplete
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\refint\StudentsMVC.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.genruntimeconfig.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\ref\StudentsMVC.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\appsettings.Development.json
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\appsettings.json
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.staticwebassets.runtime.json
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.exe
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.deps.json
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.runtimeconfig.json
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\StudentsMVC.pdb
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Azure.Core.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Azure.Identity.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.csproj.AssemblyReference.cache
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.AssemblyInfoInputs.cache
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.AssemblyInfo.cs
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.csproj.CoreCompileInputs.cache
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.RazorAssemblyInfo.cache
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.RazorAssemblyInfo.cs
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.sourcelink.json
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\staticwebassets.build.json
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\staticwebassets.development.json
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\staticwebassets\msbuild.StudentsMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentsMVC.props
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentsMVC.props
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentsMVC.props
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\scopedcss\bundle\StudentsMVC.styles.css
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\scopedcss\projectbundle\StudentsMVC.bundle.scp.css
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.csproj.CopyComplete
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\refint\StudentsMVC.dll
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.pdb
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\StudentsMVC.genruntimeconfig.cache
+D:\Проекты\ASP.NET\3. Introduction to ASP.NET Core MVC\ASP.NET Core MVC\StudentsMVC\obj\Debug\net8.0\ref\StudentsMVC.dll

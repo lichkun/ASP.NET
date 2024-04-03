@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <script src="~/JS/script.js" defer></script>
+    <link rel="stylesheet" href="~/css/normalize.css">
+    <link rel="stylesheet" href="~/css/style.css">
+</head>
+<body>
+    <section class="section">
+        <div class="container">
+            <div class="request">
+                <h1 class="request__heading">To do list</h1>
+                <div class="request__card">
+                    <span class="request__name">Task name</span>
+                    <input class="request__input-name" type="text" required>
+                </div>
+                <div class="request__card">
+                    <span class="request__tittle">Task title</span>
+                    <textarea class="request__input-tittle" rows="3" required></textarea>
+                </div>
+                <button class="request__button">Create task</button>
+            </div>
+            <ul class="tasks"></ul>
+        </div>
+    </section>
+</body>
+</html>
