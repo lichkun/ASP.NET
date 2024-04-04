@@ -17,8 +17,16 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Проекты\\ASP.NET\\MyTopMovies\\MyTopMovies\\wwwroot\\img\\203px-Kinopoisk.ru-Shutter-Island-1094940.jpg",
+      "PackagePath": "staticwebassets\\img\\203px-Kinopoisk.ru-Shutter-Island-1094940.jpg"
+    },
+    {
       "Id": "D:\\Проекты\\ASP.NET\\MyTopMovies\\MyTopMovies\\wwwroot\\img\\Gladiatorteaser.jpg",
       "PackagePath": "staticwebassets\\img\\Gladiatorteaser.jpg"
+    },
+    {
+      "Id": "D:\\Проекты\\ASP.NET\\MyTopMovies\\MyTopMovies\\wwwroot\\img\\Hacksaw_Ridge.jpg",
+      "PackagePath": "staticwebassets\\img\\Hacksaw_Ridge.jpg"
     },
     {
       "Id": "D:\\Проекты\\ASP.NET\\MyTopMovies\\MyTopMovies\\wwwroot\\img\\Poster_Inception_film_2010.jpg",
@@ -31,6 +39,14 @@
     {
       "Id": "D:\\Проекты\\ASP.NET\\MyTopMovies\\MyTopMovies\\wwwroot\\img\\Spartacus_Blood_and_Sand.png",
       "PackagePath": "staticwebassets\\img\\Spartacus_Blood_and_Sand.png"
+    },
+    {
+      "Id": "D:\\Проекты\\ASP.NET\\MyTopMovies\\MyTopMovies\\wwwroot\\img\\Undisputed_3_Redemption.jpg",
+      "PackagePath": "staticwebassets\\img\\Undisputed_3_Redemption.jpg"
+    },
+    {
+      "Id": "D:\\Проекты\\ASP.NET\\MyTopMovies\\MyTopMovies\\wwwroot\\img\\images.jpg",
+      "PackagePath": "staticwebassets\\img\\images.jpg"
     },
     {
       "Id": "D:\\Проекты\\ASP.NET\\MyTopMovies\\MyTopMovies\\wwwroot\\img\\licensed-image.jpg",
