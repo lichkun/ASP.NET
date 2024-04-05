@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
@@ -13,9 +14,14 @@ namespace MyTopMovies.Controllers
     {
         private readonly MyTopMovieContext _context;
 
-        public MyMovieController(MyTopMovieContext context)
+        IWebHostEnvironment _appEnvironment;
+
+
+        public MyMovieController(MyTopMovieContext context ,IWebHostEnvironment appEnvironment)
         {
             _context = context;
+
+            _appEnvironment = appEnvironment;
         }
 
         // GET: MyMovie
@@ -53,11 +59,24 @@ namespace MyTopMovies.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Title,Director,Year,Poster,Genres,Description")] Movie movie)
+        public async Task<IActionResult> Create([Bind("Id,Title,Director,Year,Genres,Description")] Movie movie, IFormFile uploadedFile)
         {
+            string path = "";
+            if (uploadedFile != null)
+            {
+                path = "/img/" + uploadedFile.FileName;
+
+                using (var fileStream = new FileStream(_appEnvironment.WebRootPath + path, FileMode.Create))
+                {
+                    await uploadedFile.CopyToAsync(fileStream);
+                }
+            }
+            ModelState["Poster"].ValidationState = Microsoft.AspNetCore.Mvc.ModelBinding.ModelValidationState.Valid;
             if (ModelState.IsValid)
             {
-                _context.Add(movie);
+               
+                movie.Poster = path;
+                _context.Movies.Add(movie);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
@@ -85,17 +104,28 @@ namespace MyTopMovies.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Director,Year,Poster,Genres,Description")] Movie movie)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Director,Year,Poster,Genres,Description")] Movie movie, IFormFile uploadedFile)
         {
             if (id != movie.Id)
             {
                 return NotFound();
             }
+            string path = "";
+            if (uploadedFile != null)
+            {
+                path = "/img/" + uploadedFile.FileName;
 
+                using (var fileStream = new FileStream(_appEnvironment.WebRootPath + path, FileMode.Create))
+                {
+                    await uploadedFile.CopyToAsync(fileStream);
+                }
+            }
+            ModelState["Poster"].ValidationState = Microsoft.AspNetCore.Mvc.ModelBinding.ModelValidationState.Valid;
             if (ModelState.IsValid)
             {
                 try
                 {
+                    movie.Poster = path;
                     _context.Update(movie);
                     await _context.SaveChangesAsync();
                 }

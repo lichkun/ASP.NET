@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cLt3Ei4Jb7ZJrgI3MPUe/KpCA2NRv/Diaar/4EGTfvE=",
+  "Hash": "4C61Jc1FlC6x986cXCiRVFz5gwHy2+/sRt8VHYeJsEA=",
   "Source": "MyTopMovies",
   "BasePath": "_content/MyTopMovies",
   "Mode": "Default",
@@ -245,6 +245,25 @@
       "OriginalItemSpec": "wwwroot\\img\\licensed-image.jpg"
     },
     {
+      "Identity": "D:\\Проекты\\ASP.NET\\MyTopMovies\\MyTopMovies\\wwwroot\\img\\photo_2023-08-11_08-08-24.jpg",
+      "SourceId": "MyTopMovies",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Проекты\\ASP.NET\\MyTopMovies\\MyTopMovies\\wwwroot\\",
+      "BasePath": "_content/MyTopMovies",
+      "RelativePath": "img/photo_2023-08-11_08-08-24.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\photo_2023-08-11_08-08-24.jpg"
+    },
+    {
       "Identity": "D:\\Проекты\\ASP.NET\\MyTopMovies\\MyTopMovies\\wwwroot\\img\\pie.jpg",
       "SourceId": "MyTopMovies",
       "SourceType": "Discovered",
@@ -338,6 +357,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Undisputed_3_Redemption.jpg"
+    },
+    {
+      "Identity": "D:\\Проекты\\ASP.NET\\MyTopMovies\\MyTopMovies\\wwwroot\\img\\Снимок экрана 2024-04-04 220842.png",
+      "SourceId": "MyTopMovies",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Проекты\\ASP.NET\\MyTopMovies\\MyTopMovies\\wwwroot\\",
+      "BasePath": "_content/MyTopMovies",
+      "RelativePath": "img/Снимок экрана 2024-04-04 220842.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Снимок экрана 2024-04-04 220842.png"
     },
     {
       "Identity": "D:\\Проекты\\ASP.NET\\MyTopMovies\\MyTopMovies\\wwwroot\\js\\site.js",

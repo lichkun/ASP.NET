@@ -53,8 +53,16 @@
       "PackagePath": "staticwebassets\\img\\licensed-image.jpg"
     },
     {
+      "Id": "D:\\Проекты\\ASP.NET\\MyTopMovies\\MyTopMovies\\wwwroot\\img\\photo_2023-08-11_08-08-24.jpg",
+      "PackagePath": "staticwebassets\\img\\photo_2023-08-11_08-08-24.jpg"
+    },
+    {
       "Id": "D:\\Проекты\\ASP.NET\\MyTopMovies\\MyTopMovies\\wwwroot\\img\\pie.jpg",
       "PackagePath": "staticwebassets\\img\\pie.jpg"
+    },
+    {
+      "Id": "D:\\Проекты\\ASP.NET\\MyTopMovies\\MyTopMovies\\wwwroot\\img\\Снимок экрана 2024-04-04 220842.png",
+      "PackagePath": "staticwebassets\\img\\Снимок экрана 2024-04-04 220842.png"
     },
     {
       "Id": "D:\\Проекты\\ASP.NET\\MyTopMovies\\MyTopMovies\\wwwroot\\js\\site.js",
