@@ -30,7 +30,11 @@
             </div>
             <div class="form-group">
                 <label asp-for="Poster" class="control-label"></label>
-                <input  type="file" name="uploadedFile" class="form-control" />
+                <input type="file" name="uploadedFile" class="form-control" id="posterInput" onchange="showImage(event)" />
+                @* <span asp-validation-for="Poster" class="text-danger"></span> *@
+            </div>
+            <div class="form-group">
+                <img id="posterPreview" src="#" alt="Preview" style="max-width: 200px; display: none;" />
             </div>
             <div class="form-group">
                 <label asp-for="Genres" class="control-label"></label>
@@ -54,5 +58,17 @@
 </div>
 
 @section Scripts {
+    <script>
+        function showImage(event) {
+            var input = event.target;
+            var reader = new FileReader();
+            reader.onload = function () {
+                var img = document.getElementById('posterPreview');
+                img.src = reader.result;
+                img.style.display = 'block';
+            };
+            reader.readAsDataURL(input.files[0]);
+        }
+    </script>
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }
