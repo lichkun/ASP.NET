@@ -1,0 +1,44 @@
+﻿@model Guests.Models.MessagesViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    <form asp-action="Index" method="post">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <textarea asp-for="NewMessage.MessageText" class="form-control" rows="3"></textarea>
+            <span asp-validation-for="NewMessage.MessageText" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Добавить сообщение</button>
+    </form>
+
+    <a href="@Url.Action("Login", "Account")" class="btn btn-danger">Выход</a>
+</div>
+
+@if (Model != null && Model.AllMessages.Any())
+{
+    <h2>All Messages</h2>
+    <ul>
+        @foreach (var message in Model.AllMessages)
+        {
+            <li>
+                <strong>@message.User.FirstName @message.User.LastName:</strong> @message.MessageText
+                <br />
+                <em>Date: @message.Date</em>
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>No messages found.</p>
+}
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

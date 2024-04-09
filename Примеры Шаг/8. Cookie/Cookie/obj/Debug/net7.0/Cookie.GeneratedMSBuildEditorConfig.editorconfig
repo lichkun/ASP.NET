@@ -1,0 +1,27 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Cookie
+build_property.RootNamespace = Cookie
+build_property.ProjectDir = D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\10. Cookie\Cookie\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\10. Cookie\Cookie
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/ITSTEP/ASP.NET/Примеры/ASP.NET Core/10. Cookie/Cookie/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITSTEP/ASP.NET/Примеры/ASP.NET Core/10. Cookie/Cookie/Views/Login/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

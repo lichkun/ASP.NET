@@ -1,0 +1,86 @@
+C:\Users\Admin\Downloads\Session\Session\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Admin\Downloads\Session\Session\bin\Debug\net7.0\appsettings.json
+C:\Users\Admin\Downloads\Session\Session\bin\Debug\net7.0\Session.staticwebassets.runtime.json
+C:\Users\Admin\Downloads\Session\Session\bin\Debug\net7.0\Session.exe
+C:\Users\Admin\Downloads\Session\Session\bin\Debug\net7.0\Session.deps.json
+C:\Users\Admin\Downloads\Session\Session\bin\Debug\net7.0\Session.runtimeconfig.json
+C:\Users\Admin\Downloads\Session\Session\bin\Debug\net7.0\Session.dll
+C:\Users\Admin\Downloads\Session\Session\bin\Debug\net7.0\Session.pdb
+C:\Users\Admin\Downloads\Session\Session\obj\Debug\net7.0\Session.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Session\Session\obj\Debug\net7.0\Session.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Session\Session\obj\Debug\net7.0\Session.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Session\Session\obj\Debug\net7.0\Session.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Session\Session\obj\Debug\net7.0\Session.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Session\Session\obj\Debug\net7.0\Session.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\Session\Session\obj\Debug\net7.0\Session.RazorAssemblyInfo.cache
+C:\Users\Admin\Downloads\Session\Session\obj\Debug\net7.0\Session.RazorAssemblyInfo.cs
+C:\Users\Admin\Downloads\Session\Session\obj\Debug\net7.0\staticwebassets\msbuild.Session.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Downloads\Session\Session\obj\Debug\net7.0\staticwebassets\msbuild.build.Session.props
+C:\Users\Admin\Downloads\Session\Session\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Session.props
+C:\Users\Admin\Downloads\Session\Session\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Session.props
+C:\Users\Admin\Downloads\Session\Session\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Admin\Downloads\Session\Session\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Admin\Downloads\Session\Session\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Admin\Downloads\Session\Session\obj\Debug\net7.0\scopedcss\bundle\Session.styles.css
+C:\Users\Admin\Downloads\Session\Session\obj\Debug\net7.0\Session.dll
+C:\Users\Admin\Downloads\Session\Session\obj\Debug\net7.0\refint\Session.dll
+C:\Users\Admin\Downloads\Session\Session\obj\Debug\net7.0\Session.pdb
+C:\Users\Admin\Downloads\Session\Session\obj\Debug\net7.0\Session.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Session\Session\obj\Debug\net7.0\ref\Session.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\bin\Debug\net7.0\appsettings.Development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\bin\Debug\net7.0\appsettings.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\bin\Debug\net7.0\Session.staticwebassets.runtime.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\bin\Debug\net7.0\Session.exe
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\bin\Debug\net7.0\Session.deps.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\bin\Debug\net7.0\Session.runtimeconfig.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\bin\Debug\net7.0\Session.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\bin\Debug\net7.0\Session.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\obj\Debug\net7.0\Session.csproj.AssemblyReference.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\obj\Debug\net7.0\Session.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\obj\Debug\net7.0\Session.AssemblyInfoInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\obj\Debug\net7.0\Session.AssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\obj\Debug\net7.0\Session.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\obj\Debug\net7.0\Session.MvcApplicationPartsAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\obj\Debug\net7.0\Session.RazorAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\obj\Debug\net7.0\Session.RazorAssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\obj\Debug\net7.0\staticwebassets\msbuild.Session.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\obj\Debug\net7.0\staticwebassets\msbuild.build.Session.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Session.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Session.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\obj\Debug\net7.0\scopedcss\bundle\Session.styles.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\obj\Debug\net7.0\Session.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\obj\Debug\net7.0\refint\Session.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\obj\Debug\net7.0\Session.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\obj\Debug\net7.0\Session.genruntimeconfig.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\8. Session\Session\obj\Debug\net7.0\ref\Session.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\bin\Debug\net7.0\appsettings.Development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\bin\Debug\net7.0\appsettings.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\bin\Debug\net7.0\Session.staticwebassets.runtime.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\bin\Debug\net7.0\Session.exe
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\bin\Debug\net7.0\Session.deps.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\bin\Debug\net7.0\Session.runtimeconfig.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\bin\Debug\net7.0\Session.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\bin\Debug\net7.0\Session.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\obj\Debug\net7.0\Session.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\obj\Debug\net7.0\Session.AssemblyInfoInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\obj\Debug\net7.0\Session.AssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\obj\Debug\net7.0\Session.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\obj\Debug\net7.0\Session.MvcApplicationPartsAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\obj\Debug\net7.0\Session.RazorAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\obj\Debug\net7.0\Session.RazorAssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\obj\Debug\net7.0\staticwebassets\msbuild.Session.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\obj\Debug\net7.0\staticwebassets\msbuild.build.Session.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Session.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Session.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\obj\Debug\net7.0\scopedcss\bundle\Session.styles.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\obj\Debug\net7.0\Session.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\obj\Debug\net7.0\refint\Session.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\obj\Debug\net7.0\Session.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\obj\Debug\net7.0\Session.genruntimeconfig.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\11. Session\Session\obj\Debug\net7.0\ref\Session.dll

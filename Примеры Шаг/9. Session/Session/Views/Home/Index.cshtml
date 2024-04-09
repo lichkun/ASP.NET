@@ -1,0 +1,28 @@
+﻿@{
+    Layout = null;
+}
+
+@using Microsoft.AspNetCore.Http
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta charset="utf-8" />
+    <title>Авторизация</title>
+</head>
+<body>
+    <div>
+        Здравствуйте, @Context.Session.GetString("login")
+    </div>
+    @using (Html.BeginForm("Logout", "Home", FormMethod.Get))
+    {
+        <div>
+            <input type="submit" value="Выйти" />
+        </div>
+    }
+    <div>
+        @Html.ActionLink("На страницу авторизации", "Create", "Login")
+    </div>
+</body>
+</html>

@@ -1,0 +1,57 @@
+﻿@model Cookie.Models.Login
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta charset="utf-8" />
+    <title>Авторизация</title>
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <div>
+            @if (this.Context.Request.Cookies["login"] == null)
+            {
+                @Html.ValidationSummary(true, "")
+                <div>
+                    @Html.LabelFor(model => model.UserName)
+                    <div>
+                        @Html.EditorFor(model => model.UserName)
+                        @Html.ValidationMessageFor(model => model.UserName, "")
+                    </div>
+                </div>
+
+                <div>
+                    @Html.LabelFor(model => model.Password)
+                    <div>
+                        @Html.PasswordFor(model => model.Password)
+                        @Html.ValidationMessageFor(model => model.Password, "")
+                    </div>
+                </div>
+
+                <div>
+                    <div>
+                        <input type="submit" value="Войти" />
+                    </div>
+                </div>
+            }
+            else
+            {
+                <div>
+                    <div>
+                        Вводить логин и пароль уже не нужно!
+                    </div>
+                    @Html.ActionLink("На главную", "Index", "Home")
+                </div>
+            }
+        </div>
+    }
+</body>
+</html>
