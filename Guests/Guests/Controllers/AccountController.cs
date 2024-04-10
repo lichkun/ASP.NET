@@ -1,4 +1,5 @@
-﻿using Guests.Models;
+﻿using AccountMVC.Repository;
+using Guests.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using StoringPassword.Models;
@@ -9,10 +10,10 @@ namespace Guests.Controllers
 {
     public class AccountController : Controller
     {
-        private readonly MessengerContext _context;
-        public AccountController(MessengerContext context)
+        private readonly IRepository _repo;
+        public AccountController(IRepository context)
         {
-            _context = context;
+            _repo = context;
         }
 
         public ActionResult Login()
@@ -22,38 +23,26 @@ namespace Guests.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Login(LoginModel logon)
+        public async Task<IActionResult> Login(LoginModel logon)
         {
             if (ModelState.IsValid)
             {
-                if (_context.Users.ToList().Count == 0)
+                var curUser = await _repo.GetUser(logon);
+                if (curUser == null)
                 {
                     ModelState.AddModelError("", "Wrong login or password!");
                     return View(logon);
                 }
-                var users = _context.Users.Where(a => a.Login == logon.Login);
-                if (users.ToList().Count == 0)
+
+                string hash = await _repo.Decryption(curUser, logon);
+
+                if (curUser.Password != hash)
                 {
                     ModelState.AddModelError("", "Wrong login or password!");
                     return View(logon);
                 }
-                var user = users.First();
-                string? salt = user.Salt;
+                HttpContext.Session.SetString("login", curUser.Login);
 
-                byte[] password = Encoding.Unicode.GetBytes(salt + logon.Password);
-
-                byte[] byteHash = SHA256.HashData(password);
-
-                StringBuilder hash = new StringBuilder(byteHash.Length);
-                for (int i = 0; i < byteHash.Length; i++)
-                    hash.Append(string.Format("{0:X2}", byteHash[i]));
-
-                if (user.Password != hash.ToString())
-                {
-                    ModelState.AddModelError("", "Wrong login or password!");
-                    return View(logon);
-                }
-                HttpContext.Session.SetString("login", user.Login);
                 return RedirectToAction("Index");
             }
             return View(logon);
@@ -70,54 +59,26 @@ namespace Guests.Controllers
         {
             if (ModelState.IsValid)
             {
-                User user = new User();
-                user.FirstName = reg.FirstName;
-                user.LastName = reg.LastName;
-                user.Login = reg.Login;
-
-                byte[] saltbuf = new byte[16];
-
-                RandomNumberGenerator randomNumberGenerator = RandomNumberGenerator.Create();
-                randomNumberGenerator.GetBytes(saltbuf);
-
-                StringBuilder sb = new StringBuilder(16);
-                for (int i = 0; i < 16; i++)
-                    sb.Append(string.Format("{0:X2}", saltbuf[i]));
-                string salt = sb.ToString();
-
-                byte[] password = Encoding.Unicode.GetBytes(salt + reg.Password);
-
-                byte[] byteHash = SHA256.HashData(password);
-
-                StringBuilder hash = new StringBuilder(byteHash.Length);
-                for (int i = 0; i < byteHash.Length; i++)
-                    hash.Append(string.Format("{0:X2}", byteHash[i]));
-
-                user.Password = hash.ToString();
-                user.Salt = salt;
-                _context.Users.Add(user);
-                _context.SaveChanges();
+                _repo.Register(reg);
+                _repo.Save();
                 return RedirectToAction("Login");
             }
 
             return View(reg);
         }
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            var messagesViewModel = new MessagesViewModel
-            {
-                AllMessages = _context.Messages.Include(m => m.User).ToList(),
-                NewMessage = new Messages()
-            };
+           var mesVM = await _repo.GetMessagesList();
 
-            return View(messagesViewModel);
+            return View(mesVM);
         }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Index(MessagesViewModel mesVM)
+        public async Task<IActionResult> Index(MessagesViewModel mesVM)
         {
-            var curentUser = _context.Users.FirstOrDefault(curentUser => curentUser.Login == HttpContext.Session.GetString("login"));
+            var userlist = await _repo.GetUsersList();
+            var curentUser = userlist.FirstOrDefault(curentUser => curentUser.Login == HttpContext.Session.GetString("login"));
             if (curentUser != null)
             {
                 Messages mes = new Messages
@@ -126,8 +87,8 @@ namespace Guests.Controllers
                     MessageText = mesVM.NewMessage.MessageText,
                     Date = DateOnly.FromDateTime(DateTime.Now)
                 };
-                _context.Messages.Add(mes);
-                _context.SaveChanges();
+                await _repo.AddMessage(mes);
+                await _repo.Save();
             }
             return RedirectToAction("Index");
         }

@@ -1,3 +1,4 @@
+using AccountMVC.Repository;
 using Guests.Models;
 using Microsoft.EntityFrameworkCore;
 
@@ -11,6 +12,7 @@ string? connection = builder.Configuration.GetConnectionString("DefaultConnectio
 builder.Services.AddDbContext<MessengerContext>(options => options.UseSqlServer(connection));
 
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<IRepository, AccountRepository>();
 
 var app = builder.Build();
 
