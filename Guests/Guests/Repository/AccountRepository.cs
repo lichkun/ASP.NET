@@ -46,11 +46,6 @@ namespace AccountMVC.Repository
             return messagesViewModel;
         }
 
-        public async Task Login(LoginModel login)
-        {
-            throw new NotImplementedException();
-        }
-
         public async Task Register(RegisterModel reg)
         {
             User user = new User();
