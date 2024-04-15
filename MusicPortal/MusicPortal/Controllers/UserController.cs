@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using MusicPortal.Models;
 using MusicPortal.Repository;
 
@@ -81,10 +82,46 @@ namespace MusicPortal.Controllers
             return RedirectToAction("Upload");
         }
 
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string position, int genre = 0, int page = 1,
+            SortState sortOrder = SortState.NameAsc)
         {
-            var songs = await _songRepo.GetAllAsync();
-            return View(songs);
+            int pageSize = 5;
+
+            List<Song> songList = await _songRepo.GetAllAsync();
+            IQueryable<Song> songs = songList.AsQueryable();
+
+
+            if (genre != 0)
+            {
+                songs = songs.Where(p => p.Genre.Id == genre);
+            }
+            if (!string.IsNullOrEmpty(position))
+            {
+                songs = songs.Where(p => p.Artist.Name == position);
+            }
+
+            songs = sortOrder switch
+            {
+                SortState.NameDesc => songs.OrderByDescending(s => s.Title),
+                SortState.GenreAsc => songs.OrderBy(s => s.Genre.Name),
+                SortState.GenreDesc => songs.OrderByDescending(s => s.Genre.Name),
+                SortState.ArtistDesc => songs.OrderByDescending(s => s.Artist.Name),
+                SortState.ArtistAsc => songs.OrderBy(s => s.Artist.Name),
+                _ => songs.OrderBy(s => s.Title),
+            };
+
+            var count = songs.Count();
+
+            var items = songs.Skip((page - 1) * pageSize).Take(pageSize).ToList();
+            var allgenres = await _genreRepo.GetAllAsync();
+
+            IndexViewModel viewModel = new IndexViewModel(
+                items,
+                new PageViewModel(count, page, pageSize),
+                new FilterViewModel( allgenres, genre, position),
+                new SortViewModel(sortOrder)
+            );
+            return View(viewModel);
         }
 
         public async Task<IActionResult> Download(int id)

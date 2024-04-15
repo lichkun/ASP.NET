@@ -28,6 +28,12 @@ namespace MusicPortal.Controllers
         {
             if (ModelState.IsValid)
             {
+                var user = await _repo.GetUserByLoginAsync(reg.Login);
+                if (user != null)
+                {
+                    ModelState.AddModelError("", "That login already exists!");
+                    return View(reg);
+                }
                 await _repo.AddUserAsync(reg);
                 HttpContext.Session.SetString("login", reg.Login);
                 return RedirectToAction("Login");

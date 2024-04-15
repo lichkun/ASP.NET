@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Проекты\\ASP.NET\\MusicPortal\\MusicPortal\\wwwroot\\files\\MiyaGi - Самурай(1).mp3",
+      "PackagePath": "staticwebassets\\files\\MiyaGi - Самурай(1).mp3"
+    },
+    {
       "Id": "D:\\Проекты\\ASP.NET\\MusicPortal\\MusicPortal\\wwwroot\\files\\MiyaGi - Самурай.mp3",
       "PackagePath": "staticwebassets\\files\\MiyaGi - Самурай.mp3"
     },
