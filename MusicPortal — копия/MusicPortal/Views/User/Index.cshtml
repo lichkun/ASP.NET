@@ -1,0 +1,75 @@
+﻿@model  MusicPortal.Models.IndexViewModel;
+
+<h2>Каталог песен пользователя</h2>
+
+<form method="get">
+    <div>
+        <label>Artist: </label>
+        <input name="position" value="@Model.FilterViewModel.SelectedPosition" />
+        <label>Genre: </label>
+        <select name="genre" asp-items="Model.FilterViewModel.Genres"></select>
+        <input type="submit" value="Filter" />
+    </div>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <a asp-action="Index"
+                   asp-route-sortOrder="@(Model.SortViewModel.NameSort)"
+                   asp-route-position="@(Model.FilterViewModel.SelectedPosition)"
+                   asp-route-genre="@(Model.FilterViewModel.SelectedGenre)">Название</a>
+            </th>
+            <th>
+                <a asp-action="Index" asp-route-sortOrder="@(Model.SortViewModel.GenreSort)"
+                   asp-route-position="@(Model.FilterViewModel.SelectedPosition)"
+                   asp-route-genre="@(Model.FilterViewModel.SelectedGenre)">Жанр</a>
+            </th>
+            <th>
+                <a asp-action="Index" asp-route-sortOrder="@(Model.SortViewModel.ArtistSort)"
+                   asp-route-position="@(Model.FilterViewModel.SelectedPosition)"
+                   asp-route-genre="@(Model.FilterViewModel.SelectedGenre)">Исполнитель</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var song in Model.Songs)
+        {
+            <tr>
+                <td>@song.Title</td>
+                <td>@song.Genre.Name</td>
+                <td>@song.Artist.Name</td>
+                <td>
+                    <a href="@Url.Action("Download", "User", new { id = song.Id })" class="btn btn-primary">Скачать</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<p>
+    @if (Model.PageViewModel.HasPreviousPage)
+    {
+        <a asp-action="Index"
+           asp-route-page="@(Model.PageViewModel.PageNumber - 1)"
+           asp-route-position="@(Model.FilterViewModel.SelectedPosition)"
+           asp-route-genre="@(Model.FilterViewModel.SelectedGenre)"
+           asp-route-sortorder="@(Model.SortViewModel.Current)"
+           class="glyphicon glyphicon-chevron-left">
+            Назад
+        </a>
+    }
+    @if (Model.PageViewModel.HasNextPage)
+    {
+        <a asp-action="Index"
+           asp-route-page="@(Model.PageViewModel.PageNumber + 1)"
+           asp-route-position="@(Model.FilterViewModel.SelectedPosition)"
+           asp-route-genre="@(Model.FilterViewModel.SelectedGenre)"
+           asp-route-sortorder="@(Model.SortViewModel.Current)"
+           class="glyphicon glyphicon-chevron-right">
+            Вперед
+        </a>
+    }
+</p>
+
+
+<a asp-controller="User" asp-action="Upload" class="btn btn-primary">Загрузка песен</a>

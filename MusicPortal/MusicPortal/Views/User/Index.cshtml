@@ -46,30 +46,10 @@
         }
     </tbody>
 </table>
-<p>
-    @if (Model.PageViewModel.HasPreviousPage)
-    {
-        <a asp-action="Index"
-           asp-route-page="@(Model.PageViewModel.PageNumber - 1)"
-           asp-route-position="@(Model.FilterViewModel.SelectedPosition)"
-           asp-route-genre="@(Model.FilterViewModel.SelectedGenre)"
-           asp-route-sortorder="@(Model.SortViewModel.Current)"
-           class="glyphicon glyphicon-chevron-left">
-            Назад
-        </a>
-    }
-    @if (Model.PageViewModel.HasNextPage)
-    {
-        <a asp-action="Index"
-           asp-route-page="@(Model.PageViewModel.PageNumber + 1)"
-           asp-route-position="@(Model.FilterViewModel.SelectedPosition)"
-           asp-route-genre="@(Model.FilterViewModel.SelectedGenre)"
-           asp-route-sortorder="@(Model.SortViewModel.Current)"
-           class="glyphicon glyphicon-chevron-right">
-            Вперед
-        </a>
-    }
-</p>
+<page-link page-model="Model.PageViewModel" page-action="Index"
+            page-url-position="@(Model.FilterViewModel.SelectedPosition)"
+            page-url-genre="@(Model.FilterViewModel.SelectedGenre)"
+            page-url-sortorder="@(Model.SortViewModel.Current)"></page-link>
 
 
 <a asp-controller="User" asp-action="Upload" class="btn btn-primary">Загрузка песен</a>
