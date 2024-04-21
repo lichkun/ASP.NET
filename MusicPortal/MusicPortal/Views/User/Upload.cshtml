@@ -3,7 +3,7 @@
 <h2>Загрузка новой песни</h2>
 <a asp-controller="User" asp-action="Index" class="btn btn-primary">Вернуться к просмотру каталога</a>
 
-<form asp-action="Upload" method="post" enctype="multipart/form-data">
+<form asp-action="Upload" method="post" enctype="multipart/form-data" class="bw">
     <div class="form-group">
         <label>Название песни:</label>
         <input type="text" asp-for="SongTitle" required class="form-control" />

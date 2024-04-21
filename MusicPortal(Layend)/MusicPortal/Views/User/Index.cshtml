@@ -1,0 +1,58 @@
+﻿@model  MusicPortal.Models.IndexViewModel;
+
+<h2>Каталог песен пользователя</h2>
+
+<form method="get">
+    <div>
+        <label>Artist: </label>
+        <input name="position" value="@Model.FilterViewModel.SelectedPosition" class="form-control me-2 bg-dark text-white" />
+        <label class="">Genre: </label>
+        <select name="genre" asp-items="Model.FilterViewModel.Genres" class="form-select bg-dark text-white"></select>
+        <input type="submit" value="Filter" class="btn coal"/>
+    </div>
+</form>
+<table class="table bw">
+    <thead>
+        <tr>
+            <th>
+                <a asp-action="Index"
+                   asp-route-sortOrder="@(Model.SortViewModel.NameSort)"
+                   asp-route-position="@(Model.FilterViewModel.SelectedPosition)"
+                   asp-route-genre="@(Model.FilterViewModel.SelectedGenre)">Название</a>
+            </th>
+            <th>
+                <a asp-action="Index" asp-route-sortOrder="@(Model.SortViewModel.GenreSort)"
+                   asp-route-position="@(Model.FilterViewModel.SelectedPosition)"
+                   asp-route-genre="@(Model.FilterViewModel.SelectedGenre)">Жанр</a>
+            </th>
+            <th>
+                <a asp-action="Index" asp-route-sortOrder="@(Model.SortViewModel.ArtistSort)"
+                   asp-route-position="@(Model.FilterViewModel.SelectedPosition)"
+                   asp-route-genre="@(Model.FilterViewModel.SelectedGenre)">Исполнитель</a>
+            </th>
+            <th>
+                Загрузка
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var song in Model.Songs)
+        {
+            <tr>
+                <td>@song.Title</td>
+                <td>@song.Genre</td>
+                <td>@song.Artist</td>
+                <td>
+                    <a href="@Url.Action("Download", "User", new { id = song.Id })" class="btn btn-primary coal">Скачать</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<page-link page-model="Model.PageViewModel" page-action="Index"
+            page-url-position="@(Model.FilterViewModel.SelectedPosition)"
+            page-url-genre="@(Model.FilterViewModel.SelectedGenre)"
+            page-url-sortorder="@(Model.SortViewModel.Current)"></page-link>
+
+
+<a asp-controller="User" asp-action="Upload" class="btn btn-primary coal">Загрузка песен</a>

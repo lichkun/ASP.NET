@@ -29,7 +29,7 @@ namespace MusicPortal.TagHelpers
             output.TagName = "div";
 
             TagBuilder tag = new TagBuilder("ul");
-            tag.AddCssClass("pagination");
+            tag.AddCssClass("pagination bg-dark");
 
             TagBuilder currentItem = CreateTag(PageModel.PageNumber, urlHelper);
 
@@ -54,15 +54,15 @@ namespace MusicPortal.TagHelpers
             TagBuilder link = new TagBuilder("a");
             if (pageNumber == PageModel?.PageNumber)
             {
-                item.AddCssClass("active");
+                item.AddCssClass("active bg-dark");
             }
             else
             {
                 PageUrlValues["page"] = pageNumber;
                 link.Attributes["href"] = urlHelper.Action(PageAction, PageUrlValues);
             }
-            item.AddCssClass("page-item");
-            link.AddCssClass("page-link");
+            item.AddCssClass("page-item ");
+            link.AddCssClass("page-link bg-dark ");
             link.InnerHtml.Append(pageNumber.ToString());
             item.InnerHtml.AppendHtml(link);
             return item;

@@ -5,13 +5,13 @@
 <form method="get">
     <div>
         <label>Artist: </label>
-        <input name="position" value="@Model.FilterViewModel.SelectedPosition" />
-        <label>Genre: </label>
-        <select name="genre" asp-items="Model.FilterViewModel.Genres"></select>
-        <input type="submit" value="Filter" />
+        <input name="position" value="@Model.FilterViewModel.SelectedPosition" class="form-control me-2 bg-dark text-white" />
+        <label class="">Genre: </label>
+        <select name="genre" asp-items="Model.FilterViewModel.Genres" class="form-select bg-dark text-white"></select>
+        <input type="submit" value="Filter" class="btn coal"/>
     </div>
 </form>
-<table class="table">
+<table class="table bw">
     <thead>
         <tr>
             <th>
@@ -30,6 +30,9 @@
                    asp-route-position="@(Model.FilterViewModel.SelectedPosition)"
                    asp-route-genre="@(Model.FilterViewModel.SelectedGenre)">Исполнитель</a>
             </th>
+            <th>
+                Загрузка
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -40,7 +43,7 @@
                 <td>@song.Genre.Name</td>
                 <td>@song.Artist.Name</td>
                 <td>
-                    <a href="@Url.Action("Download", "User", new { id = song.Id })" class="btn btn-primary">Скачать</a>
+                    <a href="@Url.Action("Download", "User", new { id = song.Id })" class="btn btn-primary coal">Скачать</a>
                 </td>
             </tr>
         }
@@ -52,4 +55,4 @@
             page-url-sortorder="@(Model.SortViewModel.Current)"></page-link>
 
 
-<a asp-controller="User" asp-action="Upload" class="btn btn-primary">Загрузка песен</a>
+<a asp-controller="User" asp-action="Upload" class="btn btn-primary coal">Загрузка песен</a>

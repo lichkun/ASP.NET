@@ -1,0 +1,80 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #121214;
+    color: #ffffff;
+}
+.bw {
+    background-color: #121214;
+    color: #ffffff;
+}
+
+.glyphicon {
+    display: inline-block;
+    padding: 0 5px;
+}
+
+.glyphicon-chevron-right:after {
+    content: "\00BB";
+}
+
+.glyphicon-chevron-left:before {
+    content: "\00AB";
+}
+a {
+    color: #FFC107;
+    text-decoration: none;
+}
+input[type="text"]{
+    background: rgb(33,37,41);
+    color: #fff;
+}
+.warn {
+    color: #FFC107;
+}
+.nav-link.warn:hover {
+    color: #FFC107;
+}
+a:hover {
+    color: #ffffff;
+}
+.coal {
+    background-color: #333333;
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin: 10px 0;
+}
+.page-item.active .page-link {
+    border-color: #FFC107;
+}
+
+.coal:hover {
+    background-color: #555555;
+}
+
+
+
+
+

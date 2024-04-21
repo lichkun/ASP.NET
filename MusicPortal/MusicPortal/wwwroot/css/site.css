@@ -18,7 +18,13 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background-color: #121214;
+    color: #ffffff;
+}
+.bw {
+    background-color: #121214;
+    color: #ffffff;
 }
 
 .glyphicon {
@@ -33,3 +39,29 @@ body {
 .glyphicon-chevron-left:before {
     content: "\00AB";
 }
+a {
+    color: #FFC107;
+    text-decoration: none;
+}
+a:hover {
+    color: #ffffff;
+}
+.coal {
+    background-color: #333333;
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin: 10px 0;
+}
+
+.coal:hover {
+    background-color: #555555;
+}
+
+
+
+
+
