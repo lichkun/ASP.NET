@@ -1,0 +1,36 @@
+C:\Users\Admin\Downloads\Soccer\Soccer.DAL\bin\Debug\net7.0\Soccer.DAL.deps.json
+C:\Users\Admin\Downloads\Soccer\Soccer.DAL\bin\Debug\net7.0\Soccer.DAL.dll
+C:\Users\Admin\Downloads\Soccer\Soccer.DAL\bin\Debug\net7.0\Soccer.DAL.pdb
+C:\Users\Admin\Downloads\Soccer\Soccer.DAL\obj\Debug\net7.0\Soccer.DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Soccer\Soccer.DAL\obj\Debug\net7.0\Soccer.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Soccer\Soccer.DAL\obj\Debug\net7.0\Soccer.DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Soccer\Soccer.DAL\obj\Debug\net7.0\Soccer.DAL.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Soccer\Soccer.DAL\obj\Debug\net7.0\Soccer.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Soccer\Soccer.DAL\obj\Debug\net7.0\Soccer.DAL.dll
+C:\Users\Admin\Downloads\Soccer\Soccer.DAL\obj\Debug\net7.0\refint\Soccer.DAL.dll
+C:\Users\Admin\Downloads\Soccer\Soccer.DAL\obj\Debug\net7.0\Soccer.DAL.pdb
+C:\Users\Admin\Downloads\Soccer\Soccer.DAL\obj\Debug\net7.0\ref\Soccer.DAL.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.DAL\bin\Debug\net7.0\Soccer.DAL.deps.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.DAL\bin\Debug\net7.0\Soccer.DAL.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.DAL\bin\Debug\net7.0\Soccer.DAL.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.DAL\obj\Debug\net7.0\Soccer.DAL.csproj.AssemblyReference.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.DAL\obj\Debug\net7.0\Soccer.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.DAL\obj\Debug\net7.0\Soccer.DAL.AssemblyInfoInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.DAL\obj\Debug\net7.0\Soccer.DAL.AssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.DAL\obj\Debug\net7.0\Soccer.DAL.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.DAL\obj\Debug\net7.0\Soccer.DAL.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.DAL\obj\Debug\net7.0\refint\Soccer.DAL.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.DAL\obj\Debug\net7.0\Soccer.DAL.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer.DAL\obj\Debug\net7.0\ref\Soccer.DAL.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer.DAL\bin\Debug\net7.0\Soccer.DAL.deps.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer.DAL\bin\Debug\net7.0\Soccer.DAL.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer.DAL\bin\Debug\net7.0\Soccer.DAL.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer.DAL\obj\Debug\net7.0\Soccer.DAL.csproj.AssemblyReference.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer.DAL\obj\Debug\net7.0\Soccer.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer.DAL\obj\Debug\net7.0\Soccer.DAL.AssemblyInfoInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer.DAL\obj\Debug\net7.0\Soccer.DAL.AssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer.DAL\obj\Debug\net7.0\Soccer.DAL.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer.DAL\obj\Debug\net7.0\Soccer.DAL.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer.DAL\obj\Debug\net7.0\refint\Soccer.DAL.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer.DAL\obj\Debug\net7.0\Soccer.DAL.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer.DAL\obj\Debug\net7.0\ref\Soccer.DAL.dll

@@ -1,0 +1,28 @@
+﻿@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        $(document).ready(function () {
+            $(".nav-link").on("click", function (ev) {
+                ev.preventDefault();
+
+                let href = $(this).attr("href");
+                $.ajax({
+                    url: href,
+                    type: 'GET',
+                    contentType: false,
+                    processData: false,
+                    success: function (data) {
+                        $("#content").html(data);
+                    },
+                    error: function (jqXHR, statusText, error) {
+                        console.log(jqXHR.status + '\n' + statusText + '\n' + error);
+                    }
+                });
+            })
+
+        })
+    </script>
+}
+

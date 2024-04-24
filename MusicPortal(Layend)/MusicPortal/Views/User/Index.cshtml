@@ -1,6 +1,6 @@
 ﻿@model  MusicPortal.Models.IndexViewModel;
 
-<h2>Каталог песен пользователя</h2>
+<h2>@Localization.Resource.DirectorySongs</h2>
 
 <form method="get">
     <div>
@@ -18,20 +18,20 @@
                 <a asp-action="Index"
                    asp-route-sortOrder="@(Model.SortViewModel.NameSort)"
                    asp-route-position="@(Model.FilterViewModel.SelectedPosition)"
-                   asp-route-genre="@(Model.FilterViewModel.SelectedGenre)">Название</a>
+                   asp-route-genre="@(Model.FilterViewModel.SelectedGenre)">@Localization.Resource.Title</a>
             </th>
             <th>
                 <a asp-action="Index" asp-route-sortOrder="@(Model.SortViewModel.GenreSort)"
                    asp-route-position="@(Model.FilterViewModel.SelectedPosition)"
-                   asp-route-genre="@(Model.FilterViewModel.SelectedGenre)">Жанр</a>
+                   asp-route-genre="@(Model.FilterViewModel.SelectedGenre)">@Localization.Resource.Genre</a>
             </th>
             <th>
                 <a asp-action="Index" asp-route-sortOrder="@(Model.SortViewModel.ArtistSort)"
                    asp-route-position="@(Model.FilterViewModel.SelectedPosition)"
-                   asp-route-genre="@(Model.FilterViewModel.SelectedGenre)">Исполнитель</a>
+                   asp-route-genre="@(Model.FilterViewModel.SelectedGenre)">@Localization.Resource.Artist</a>
             </th>
             <th>
-                Загрузка
+                @Localization.Resource.Download
             </th>
         </tr>
     </thead>
@@ -43,8 +43,9 @@
                 <td>@song.Genre</td>
                 <td>@song.Artist</td>
                 <td>
-                    <a href="@Url.Action("Download", "User", new { id = song.Id })" class="btn btn-primary coal">Скачать</a>
+                    <a href="@Url.Action("Download", "User", new { id = song.Id })" class="btn btn-primary coal">@Localization.Resource.Download</a>
                 </td>
+                @* <td><audio src="@song.FilePath" controls></audio></td> *@
             </tr>
         }
     </tbody>
@@ -55,4 +56,4 @@
             page-url-sortorder="@(Model.SortViewModel.Current)"></page-link>
 
 
-<a asp-controller="User" asp-action="Upload" class="btn btn-primary coal">Загрузка песен</a>
+<a asp-controller="User" asp-action="Upload" class="btn btn-primary coal">@Localization.Resource.DownloadSongs</a>

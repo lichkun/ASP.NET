@@ -1,0 +1,213 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+
+            getAllStudents();
+
+            $("body").on("click", ".btn-get-student", function () {
+                let id = $(this).data("studentid");
+                getStudent(id);
+            });
+
+            let row = function (student) {
+                return "<tr data-rowid='" + student.Id + "'><td>" + student.Id + "</td>" +
+                    "<td>" + student.Name + "</td> <td>" + student.Surname + "</td>" +
+                    "<td>" + student.Age + "</td> <td>" + student.GPA + "</td>" +
+                    "<td><a href='javascript: void (0)' data-studentid='" + student.Id +
+                    "' class='btn btn-success btn-get-student'>Get Student</a></td></tr>";
+            };
+
+
+            function getAllStudents() {
+                $.ajax({
+                    url: '@Url.Action("GetStudents", "Students")',
+                    type: 'GET',
+                    contentType: false,
+                    processData: false,
+                    success: function (response) {
+                        let rows = "";
+                        let students = JSON.parse(response);
+                        $.each(students, function (index, student) {
+                            rows += row(student);
+                        })
+                        $("#student-list").html(rows); 
+                    },
+                    error: function (jqXHR, statusText, error) {
+                        console.log(jqXHR.status + '\n' + statusText + '\n' + error);
+                    }
+                });
+            }
+
+            function getStudent(studentid) {
+
+                let url = '@Url.Action("GetDetailsById", "Students")' + '/' + studentid;
+                $.ajax({
+                    type: 'GET',
+                    url: url,
+                    contentType: false,
+                    processData: false,
+                    success: function (response) {
+                            var student = JSON.parse(response);
+                            $("#surname").val(student.Surname);
+                            $("#name").val(student.Name);
+                            $("#age").val(student.Age);
+                            $("#gpa").val(student.GPA);
+                            $("#hdn-student-id").val(student.Id);
+
+                    },
+                    error: function (jqXHR, statusText, error) {
+                        console.log(jqXHR.status + '\n' + statusText + '\n' + error);
+                    }
+                });
+            }
+
+
+            $("#btn-insert-student").on("click", function () {
+                let formData = new FormData();
+                formData.append("name", $("#name").val());
+                formData.append("surname", $("#surname").val());
+                formData.append("age", $("#age").val());
+                formData.append("gpa", $("#gpa").val());
+                $.ajax({
+                    type: 'POST',
+                    url: '@Url.Action("InsertStudent", "Students")',
+                    contentType: false,
+                    processData: false,
+                    data: formData,
+                    success: function (response) {
+                       alert(response);
+                       resetForm();
+                       getAllStudents();
+                    },
+                    error: function (jqXHR, statusText, error) {
+                        console.log(jqXHR.status + '\n' + statusText + '\n' + error);
+                    }
+                });
+            });
+
+            $("#btn-update-student").on("click", function () {
+                let formData = new FormData();
+                formData.append("id", $("#hdn-student-id").val());
+                formData.append("name", $("#name").val());
+                formData.append("surname", $("#surname").val());
+                formData.append("age", $("#age").val());
+                formData.append("gpa", $("#gpa").val());
+                $.ajax({
+                    type: 'PUT',    
+                    url: '@Url.Action("UpdateStudent", "Students")',
+                    contentType: false,
+                    processData: false,
+                    data: formData,
+                    success: function (response) {
+                        alert(response);
+                        resetForm();
+                        getAllStudents();
+                    },
+                    error: function (jqXHR, statusText, error) {
+                        console.log(jqXHR.status + '\n' + statusText + '\n' + error);
+                    }
+                });
+            });
+
+            $("#btn-delete-student").on("click", function () {
+                if(!confirm("Вы действительно желаете удалить студента?"))
+                    return;
+                let formData = new FormData();
+                formData.append("id", $("#hdn-student-id").val());
+                $.ajax({
+                    type: 'DELETE',
+                    url: '@Url.Action("DeleteStudent", "Students")',
+                    contentType: false,
+                    processData: false,
+                    data: formData,
+                    success: function (response) {
+                        alert(response);
+                        resetForm();
+                        getAllStudents();
+                    },
+                    error: function (jqXHR, statusText, error) {
+                        console.log(jqXHR.status + '\n' + statusText + '\n' + error);
+                    }
+                });
+            });
+            function resetForm() {
+                $("#hdn-student-id").val("");
+                $("#name").val("");
+                $("#surname").val("");
+                $("#age").val("");
+                $("#gpa").val("");
+            }           
+        });
+    </script>
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+<div class="text-center">
+    <h1 class="display-4">Welcome To ASP.NET Core AJAX Demo</h1>
+    <hr />
+</div>
+<div class="row">
+    <div class="col-sm-12">
+        <form>
+            <input type="hidden" id="hdn-student-id" />
+            <div class="row g-3">
+                <div class="col-sm-6">
+                    <label for="name" class="form-label">Name</label>
+                    <input type="text" class="form-control" id="name" placeholder="Enter Your Name" value="" autocomplete="off" required>
+                </div>
+                <div class="col-sm-6">
+                    <label for="surname" class="form-label">Surname</label>
+                    <input type="text" class="form-control" id="surname" placeholder="Enter Your Surname" value="" autocomplete="off" required>
+                </div>
+                <div class="col-sm-6">
+                    <label for="age" class="form-label">Age</label>
+                    <input type="number" class="form-control" id="age" placeholder="Enter Your Age" value="" autocomplete="off" required>
+                </div>
+                <div class="col-sm-6">
+                    <label for="gpa" class="form-label">GPA</label>
+                    <input type="number" class="form-control" id="gpa" placeholder="Enter Your GPA" value="" autocomplete="off" required>
+                </div>
+            </div>
+            <table class="table">
+                <tbody>
+                    <tr>
+                        <td>  
+                            <a href="javascript:void(0)" class="btn btn-primary" id="btn-insert-student">Save Student</a></td>
+                        <td>
+                            <a href="javascript:void(0)" class="btn btn-info" id="btn-update-student">Update Student</a>
+                        </td>
+                        <td>
+                            <a href="javascript:void(0)" class="btn btn-danger" id="btn-delete-student">Delete Student</a>
+                        </td>
+                    </tr>
+                </tbody>
+
+            </table>
+        </form>
+
+    </div>
+    <br />
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <td>#</td>
+                    <td>Name</td>
+                    <td>Surname</td>
+                    <td>Age</td>
+                    <td>GPA</td>
+                    <td>Action</td>
+                </tr>
+            </thead>
+            <tbody id="student-list">
+
+            </tbody>
+        </table>
+    </div>
+</div>

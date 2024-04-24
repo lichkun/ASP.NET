@@ -14,3 +14,17 @@ D:\Проекты\ASP.NET\MusicPortal(Layend)\MusicPortal.BLL\obj\Debug\net8.0\M
 D:\Проекты\ASP.NET\MusicPortal(Layend)\MusicPortal.BLL\obj\Debug\net8.0\refint\MusicPortal.BLL.dll
 D:\Проекты\ASP.NET\MusicPortal(Layend)\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.pdb
 D:\Проекты\ASP.NET\MusicPortal(Layend)\MusicPortal.BLL\obj\Debug\net8.0\ref\MusicPortal.BLL.dll
+D:\Проекты\ASP.NET\MusicPortal(Layend)\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.Localization.Resource.resources
+D:\Проекты\ASP.NET\MusicPortal(Layend)\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.Localization.Resource.de.resources
+D:\Проекты\ASP.NET\MusicPortal(Layend)\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.Localization.Resource.en.resources
+D:\Проекты\ASP.NET\MusicPortal(Layend)\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.Localization.Resource.fr.resources
+D:\Проекты\ASP.NET\MusicPortal(Layend)\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.Localization.Resource.uk.resources
+D:\Проекты\ASP.NET\MusicPortal(Layend)\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.csproj.GenerateResource.cache
+D:\Проекты\ASP.NET\MusicPortal(Layend)\MusicPortal.BLL\bin\Debug\net8.0\de\MusicPortal.BLL.resources.dll
+D:\Проекты\ASP.NET\MusicPortal(Layend)\MusicPortal.BLL\bin\Debug\net8.0\en\MusicPortal.BLL.resources.dll
+D:\Проекты\ASP.NET\MusicPortal(Layend)\MusicPortal.BLL\bin\Debug\net8.0\fr\MusicPortal.BLL.resources.dll
+D:\Проекты\ASP.NET\MusicPortal(Layend)\MusicPortal.BLL\bin\Debug\net8.0\uk\MusicPortal.BLL.resources.dll
+D:\Проекты\ASP.NET\MusicPortal(Layend)\MusicPortal.BLL\obj\Debug\net8.0\de\MusicPortal.BLL.resources.dll
+D:\Проекты\ASP.NET\MusicPortal(Layend)\MusicPortal.BLL\obj\Debug\net8.0\en\MusicPortal.BLL.resources.dll
+D:\Проекты\ASP.NET\MusicPortal(Layend)\MusicPortal.BLL\obj\Debug\net8.0\fr\MusicPortal.BLL.resources.dll
+D:\Проекты\ASP.NET\MusicPortal(Layend)\MusicPortal.BLL\obj\Debug\net8.0\uk\MusicPortal.BLL.resources.dll

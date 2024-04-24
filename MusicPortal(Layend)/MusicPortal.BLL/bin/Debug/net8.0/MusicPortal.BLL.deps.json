@@ -13,6 +13,20 @@
         },
         "runtime": {
           "MusicPortal.BLL.dll": {}
+        },
+        "resources": {
+          "de/MusicPortal.BLL.resources.dll": {
+            "locale": "de"
+          },
+          "en/MusicPortal.BLL.resources.dll": {
+            "locale": "en"
+          },
+          "fr/MusicPortal.BLL.resources.dll": {
+            "locale": "fr"
+          },
+          "uk/MusicPortal.BLL.resources.dll": {
+            "locale": "uk"
+          }
         }
       },
       "AutoMapper/13.0.1": {

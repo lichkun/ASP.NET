@@ -1,4 +1,8 @@
-﻿<!DOCTYPE html>
+﻿@using MusicPortal.DAL.Entities
+@inject MusicPortal.BLL.Interfaces.ILanguage MyLangRead
+
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -21,13 +25,23 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-white"  asp-controller="Account" asp-action="Login">Log In</a>
+                            <a class="nav-link text-white"  asp-controller="Account" asp-action="Login">@Localization.Resource.LogIn</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-white" asp-controller="Account" asp-action="Register">Register</a>
+                            <a class="nav-link text-white" asp-controller="Account" asp-action="Register">@Localization.Resource.Register</a>
                         </li>
                     </ul>
                 </div>
+                <form asp-action="ChangeCulture" asp-controller="User" style="display:flex; align-items: center" id="languageForm">
+                    <select name="lang" class="form-select bg-dark text-white" id="languageSelect">
+                        <option disabled selected>@Localization.Resource.ChooseLang</option>
+                        @foreach (Language it in MyLangRead.Languages())
+                        {
+                            <option value=@it.ShortName>@it.Name</option>
+                        }
+                    </select>
+                    <input type="submit" name="submit" class="btn coal" style="margin-left: 10px" value="@Localization.Resource.ChooseLang">
+                </form>
             </div>
         </nav>
     </header>
@@ -45,6 +59,14 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script>
+        $(document).ready(function () {
+            $("#languageSelect").change(function () {
+                console.log("меняю язык");
+                $("#languageForm").submit();
+            });
+        })
+    </script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

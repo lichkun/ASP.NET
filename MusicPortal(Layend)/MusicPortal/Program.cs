@@ -5,6 +5,7 @@ using MusicPortal.BLL.Infastructure;
 using MusicPortal.BLL.Services;
 using MusicPortal.Models;
 using MusicPortal.Services;
+using MultilingualSite.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -23,6 +24,9 @@ builder.Services.AddTransient<IService<UserDTO>, UserService>();
 builder.Services.AddTransient<IService<ArtistDTO>, ArtistService>();
 builder.Services.AddTransient<IService<GenreDTO>, GenreService>();
 builder.Services.AddTransient<IService<SongDTO>, SongService>();
+
+builder.Services.AddScoped<ILanguage, ReadLanguagesService>();  
+
 
 var app = builder.Build();
 

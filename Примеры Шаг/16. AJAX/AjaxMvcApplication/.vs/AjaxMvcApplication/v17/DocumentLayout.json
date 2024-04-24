@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB30DCF-68FA-4153-A15B-B1C4967D38B0}|AjaxMvcApplication\\AjaxMvcApplication.csproj|D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\ajaxmvcapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB30DCF-68FA-4153-A15B-B1C4967D38B0}|AjaxMvcApplication\\AjaxMvcApplication.csproj|solutionrelative:ajaxmvcapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB30DCF-68FA-4153-A15B-B1C4967D38B0}|AjaxMvcApplication\\AjaxMvcApplication.csproj|d:\\itstep\\asp.net\\asp.net core\\16 ajax\\ajaxmvcapplication\\ajaxmvcapplication\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB30DCF-68FA-4153-A15B-B1C4967D38B0}|AjaxMvcApplication\\AjaxMvcApplication.csproj|solutionrelative:ajaxmvcapplication\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB30DCF-68FA-4153-A15B-B1C4967D38B0}|AjaxMvcApplication\\AjaxMvcApplication.csproj|D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\ajaxmvcapplication\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EB30DCF-68FA-4153-A15B-B1C4967D38B0}|AjaxMvcApplication\\AjaxMvcApplication.csproj|solutionrelative:ajaxmvcapplication\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB30DCF-68FA-4153-A15B-B1C4967D38B0}|AjaxMvcApplication\\AjaxMvcApplication.csproj|D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\ajaxmvcapplication\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB30DCF-68FA-4153-A15B-B1C4967D38B0}|AjaxMvcApplication\\AjaxMvcApplication.csproj|solutionrelative:ajaxmvcapplication\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB30DCF-68FA-4153-A15B-B1C4967D38B0}|AjaxMvcApplication\\AjaxMvcApplication.csproj|D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\ajaxmvcapplication\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EB30DCF-68FA-4153-A15B-B1C4967D38B0}|AjaxMvcApplication\\AjaxMvcApplication.csproj|solutionrelative:ajaxmvcapplication\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB30DCF-68FA-4153-A15B-B1C4967D38B0}|AjaxMvcApplication\\AjaxMvcApplication.csproj|D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\ajaxmvcapplication\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB30DCF-68FA-4153-A15B-B1C4967D38B0}|AjaxMvcApplication\\AjaxMvcApplication.csproj|solutionrelative:ajaxmvcapplication\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB30DCF-68FA-4153-A15B-B1C4967D38B0}|AjaxMvcApplication\\AjaxMvcApplication.csproj|D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\ajaxmvcapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EB30DCF-68FA-4153-A15B-B1C4967D38B0}|AjaxMvcApplication\\AjaxMvcApplication.csproj|solutionrelative:ajaxmvcapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB30DCF-68FA-4153-A15B-B1C4967D38B0}|AjaxMvcApplication\\AjaxMvcApplication.csproj|D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\ajaxmvcapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EB30DCF-68FA-4153-A15B-B1C4967D38B0}|AjaxMvcApplication\\AjaxMvcApplication.csproj|solutionrelative:ajaxmvcapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB30DCF-68FA-4153-A15B-B1C4967D38B0}|AjaxMvcApplication\\AjaxMvcApplication.csproj|D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\ajaxmvcapplication\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EB30DCF-68FA-4153-A15B-B1C4967D38B0}|AjaxMvcApplication\\AjaxMvcApplication.csproj|solutionrelative:ajaxmvcapplication\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB30DCF-68FA-4153-A15B-B1C4967D38B0}|AjaxMvcApplication\\AjaxMvcApplication.csproj|D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\ajaxmvcapplication\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5EB30DCF-68FA-4153-A15B-B1C4967D38B0}|AjaxMvcApplication\\AjaxMvcApplication.csproj|solutionrelative:ajaxmvcapplication\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB30DCF-68FA-4153-A15B-B1C4967D38B0}|AjaxMvcApplication\\AjaxMvcApplication.csproj|D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\ajaxmvcapplication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EB30DCF-68FA-4153-A15B-B1C4967D38B0}|AjaxMvcApplication\\AjaxMvcApplication.csproj|solutionrelative:ajaxmvcapplication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\AjaxMvcApplication\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "AjaxMvcApplication\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\AjaxMvcApplication\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "AjaxMvcApplication\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-01-17T16:58:38.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\AjaxMvcApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "AjaxMvcApplication\\appsettings.json",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\AjaxMvcApplication\\appsettings.json",
+              "RelativeToolTip": "AjaxMvcApplication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-01-17T16:58:38.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\AjaxMvcApplication\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "AjaxMvcApplication\\Models\\Student.cs",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\AjaxMvcApplication\\Models\\Student.cs",
+              "RelativeToolTip": "AjaxMvcApplication\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-17T16:58:38.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\AjaxMvcApplication\\Models\\StudentContext.cs",
+              "RelativeDocumentMoniker": "AjaxMvcApplication\\Models\\StudentContext.cs",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\AjaxMvcApplication\\Models\\StudentContext.cs",
+              "RelativeToolTip": "AjaxMvcApplication\\Models\\StudentContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-17T16:58:38.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\AjaxMvcApplication\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "AjaxMvcApplication\\Views\\Students\\Index.cshtml",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\AjaxMvcApplication\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "AjaxMvcApplication\\Views\\Students\\Index.cshtml",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAAGIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-17T16:58:38.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\AjaxMvcApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AjaxMvcApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\AjaxMvcApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AjaxMvcApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-17T16:58:38.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\AjaxMvcApplication\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "AjaxMvcApplication\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\AjaxMvcApplication\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "AjaxMvcApplication\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAADIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-17T16:58:38.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\AjaxMvcApplication\\Program.cs",
+              "RelativeDocumentMoniker": "AjaxMvcApplication\\Program.cs",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\AjaxMvcApplication\\Program.cs",
+              "RelativeToolTip": "AjaxMvcApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-17T16:58:38.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\AjaxMvcApplication\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "AjaxMvcApplication\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\AjaxMvcApplication\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "AjaxMvcApplication\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-17T16:58:38.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\AjaxMvcApplication\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AjaxMvcApplication\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\AjaxMvcApplication\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AjaxMvcApplication\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-17T16:58:38.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\AjaxMvcApplication\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AjaxMvcApplication\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\16 AJAX\\AjaxMvcApplication\\AjaxMvcApplication\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AjaxMvcApplication\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-17T16:58:38.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

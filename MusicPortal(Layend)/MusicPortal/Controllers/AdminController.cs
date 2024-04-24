@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using MusicPortal.Attributes;
 using MusicPortal.BLL.DTO;
 using MusicPortal.BLL.Interfaces;
 using MusicPortal.Models;
@@ -6,6 +7,7 @@ using MusicPortal.Repository;
 
 namespace MusicPortal.Controllers
 {
+    [Culture]
     public class AdminController : Controller
     {
         private readonly IService<UserDTO> _userRepo;
@@ -21,6 +23,7 @@ namespace MusicPortal.Controllers
 
         public async Task<IActionResult> Index()
         {
+            HttpContext.Session.SetString("path", Request.Path);
             return View();
         }
 
@@ -118,18 +121,21 @@ namespace MusicPortal.Controllers
         public async Task<IActionResult> ManageUsers()
         {
             var users = await _userRepo.GetAllAsync();
+            HttpContext.Session.SetString("path", Request.Path);
             return View("Users", users);
         }
 
         public async Task<IActionResult> ManageGenres()
         {
             var genres = await _genreRepo.GetAllAsync();
+            HttpContext.Session.SetString("path", Request.Path);
             return View("Genre", genres);
         }
 
         public async Task<IActionResult> ManageArtists()
         {
             var artists = await _artistRepo.GetAllAsync();
+            HttpContext.Session.SetString("path", Request.Path);
             return View("Artist", artists);
         }
     }

@@ -281,3 +281,7 @@ D:\Проекты\ASP.NET\MusicPortal(Layend)\MusicPortal\obj\Debug\net8.0\scope
 D:\Проекты\ASP.NET\MusicPortal(Layend)\MusicPortal\obj\Debug\net8.0\MusicPortal.csproj.CopyComplete
 D:\Проекты\ASP.NET\MusicPortal(Layend)\MusicPortal\obj\Debug\net8.0\MusicPortal.genruntimeconfig.cache
 D:\Проекты\ASP.NET\MusicPortal(Layend)\MusicPortal\obj\Debug\net8.0\ref\MusicPortal.dll
+D:\Проекты\ASP.NET\MusicPortal(Layend)\MusicPortal\bin\Debug\net8.0\de\MusicPortal.BLL.resources.dll
+D:\Проекты\ASP.NET\MusicPortal(Layend)\MusicPortal\bin\Debug\net8.0\en\MusicPortal.BLL.resources.dll
+D:\Проекты\ASP.NET\MusicPortal(Layend)\MusicPortal\bin\Debug\net8.0\fr\MusicPortal.BLL.resources.dll
+D:\Проекты\ASP.NET\MusicPortal(Layend)\MusicPortal\bin\Debug\net8.0\uk\MusicPortal.BLL.resources.dll

@@ -1,16 +1,16 @@
 ﻿@using MusicPortal.BLL.DTO
 @model List<UserDTO>
 
-<h2>Управление пользователями</h2>
+<h2>@Localization.Resource.ManageUsers</h2>
 
 <table class="table bw">
     <thead>
         <tr>
-            <th>Имя пользователя</th>
-            <th>Пароль</th>
-            <th>Статус</th>
-            <th>Подтверждение</th>
-            <th>Удаление</th>
+            <th>@Localization.Resource.UserName</th>
+            <th>@Localization.Resource.Password</th>
+            <th>@Localization.Resource.Status</th>
+            <th>@Localization.Resource.Accept</th>
+            <th>@Localization.Resource.Deleting</th>
         </tr>
     </thead>
     <tbody>
@@ -24,18 +24,18 @@
                     @if (user.Status == 0)
                     {
                         <form asp-action="ChangeStatus" asp-route-userId="@user.Id" method="post">
-                            <button type="submit" class="btn btn-primary">Подтвердить</button>
+                            <button type="submit" class="btn btn-primary">@Localization.Resource.Accept</button>
                         </form>
                     }
                 </td>
                 <td>
                     <form asp-action="DeleteUser" asp-route-userId="@user.Id" method="post">
-                        <button type="submit" class="btn btn-danger">Удалить</button>
+                        <button type="submit" class="btn btn-danger">@Localization.Resource.Delete</button>
                     </form>
                 </td>
             </tr>
         }
     </tbody>
-    <a class="nav-link warn" href="@Url.Action("Index", "Admin")">Back</a>
+    <a class="nav-link warn" href="@Url.Action("Index", "Admin")">@Localization.Resource.Back</a>
 
 </table>

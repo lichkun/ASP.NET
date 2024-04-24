@@ -5,9 +5,11 @@ using System.Security.Cryptography;
 using System.Text;
 using MusicPortal.BLL.Interfaces;
 using MusicPortal.BLL.DTO;
+using MusicPortal.Attributes;
 
 namespace MusicPortal.Controllers
 {
+    [Culture]
     public class AccountController : Controller
     {
         IAccount accountService;
@@ -18,6 +20,7 @@ namespace MusicPortal.Controllers
 
         public ActionResult Register()
         {
+            HttpContext.Session.SetString("path", Request.Path);
             return View();
         }
 
@@ -48,6 +51,7 @@ namespace MusicPortal.Controllers
 
         public ActionResult Login()
         {
+            HttpContext.Session.SetString("path", Request.Path);
             return View();
         }
 

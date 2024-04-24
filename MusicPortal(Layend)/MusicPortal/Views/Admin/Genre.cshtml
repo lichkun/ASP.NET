@@ -1,17 +1,17 @@
 ﻿@using MusicPortal.BLL.DTO
 @model List<GenreDTO>
 
-<h2>Жанры</h2>
+<h2>@Localization.Resource.ManageGenres</h2>
 <form asp-controller="Admin" asp-action="AddGenre" method="post">
-    <label>Название жанра:</label><br/>
+    <label>@Localization.Resource.GenreTitle:</label><br />
     <input type="text" name="genreName" required>
-    <button type="submit" class="btn btn-success">Добавить жанр</button>
+    <button type="submit" class="btn btn-success">@Localization.Resource.AddGenre</button>
 </form>
 <table class="table bw">
     <thead>
         <tr>
-            <th>Название жанра</th>
-            <th>Действия</th>
+            <th>@Localization.Resource.GenreTitle</th>
+            <th>@Localization.Resource.Actions</th>
         </tr>
     </thead>
     <tbody>
@@ -24,13 +24,13 @@
                     <input type="text" value="@genre.Name" name="newName" />
                 </td>
                 <td>
-                    <button class="btn btn-warning" type="submit">Изменить</button>
-                    <button type="submit" formaction="@Url.Action("DeleteGenre", "Admin", new { id = genre.Id })" class="btn btn-danger">Удалить</button>
+                    <button class="btn btn-warning" type="submit">@Localization.Resource.Change</button>
+                    <button type="submit" formaction="@Url.Action("DeleteGenre", "Admin", new { id = genre.Id })" class="btn btn-danger">@Localization.Resource.Delete</button>
                 </td>
                 </form>
             </tr>
         }
     </tbody>
-    <a class="nav-link warn" href="@Url.Action("Index", "Admin")">Back</a>
+    <a class="nav-link warn" href="@Url.Action("Index", "Admin")">@Localization.Resource.Back</a>
 
 </table>

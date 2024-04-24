@@ -1,0 +1,168 @@
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\appsettings.json
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\MultilingualSite.staticwebassets.runtime.json
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\MultilingualSite.exe
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\MultilingualSite.deps.json
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\MultilingualSite.runtimeconfig.json
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\MultilingualSite.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\MultilingualSite.pdb
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\de\MultilingualSite.resources.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\en\MultilingualSite.resources.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\uk\MultilingualSite.resources.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.Resources.Resource.resources
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.Resources.Resource.de.resources
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.Resources.Resource.en.resources
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.Resources.Resource.uk.resources
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.AssemblyInfo.cs
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.RazorAssemblyInfo.cache
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.RazorAssemblyInfo.cs
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\de\MultilingualSite.resources.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\en\MultilingualSite.resources.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\uk\MultilingualSite.resources.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\staticwebassets\msbuild.MultilingualSite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\staticwebassets\msbuild.build.MultilingualSite.props
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MultilingualSite.props
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MultilingualSite.props
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\scopedcss\bundle\MultilingualSite.styles.css
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\scopedcss\projectbundle\MultilingualSite.bundle.scp.css
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.csproj.CopyComplete
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\refint\MultilingualSite.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.pdb
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.genruntimeconfig.cache
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\ref\MultilingualSite.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\bin\Debug\net7.0\fr\MultilingualSite.resources.dll
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.Resources.Resource.fr.resources
+C:\Users\Admin\Downloads\MultilingualSite\MultilingualSite\obj\Debug\net7.0\fr\MultilingualSite.resources.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\appsettings.Development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\appsettings.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\MultilingualSite.staticwebassets.runtime.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\MultilingualSite.exe
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\MultilingualSite.deps.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\MultilingualSite.runtimeconfig.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\MultilingualSite.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\MultilingualSite.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\de\MultilingualSite.resources.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\en\MultilingualSite.resources.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\fr\MultilingualSite.resources.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\uk\MultilingualSite.resources.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Azure.Core.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Azure.Identity.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\System.Memory.Data.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.csproj.AssemblyReference.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.Resources.Resource.resources
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.Resources.Resource.de.resources
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.Resources.Resource.en.resources
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.Resources.Resource.fr.resources
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.Resources.Resource.uk.resources
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.csproj.GenerateResource.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.AssemblyInfoInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.AssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.MvcApplicationPartsAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.RazorAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.RazorAssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\de\MultilingualSite.resources.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\en\MultilingualSite.resources.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\fr\MultilingualSite.resources.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\uk\MultilingualSite.resources.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\staticwebassets\msbuild.MultilingualSite.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\staticwebassets\msbuild.build.MultilingualSite.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MultilingualSite.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MultilingualSite.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\scopedcss\bundle\MultilingualSite.styles.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\scopedcss\projectbundle\MultilingualSite.bundle.scp.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.csproj.CopyComplete
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\refint\MultilingualSite.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\MultilingualSite.genruntimeconfig.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\19. Multilanguage site and localization\MultilingualSite\MultilingualSite\obj\Debug\net7.0\ref\MultilingualSite.dll

@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\multilingualsite\\filters\\cultureattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|solutionrelative:multilingualsite\\filters\\cultureattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\multilingualsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|solutionrelative:multilingualsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|d:\\itstep\\asp.net\\asp.net core\\15. multilanguage site and localization\\multilingualsite\\multilingualsite\\views\\club\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|solutionrelative:multilingualsite\\views\\club\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\multilingualsite\\views\\club\\createclub.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|solutionrelative:multilingualsite\\views\\club\\createclub.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\multilingualsite\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|solutionrelative:multilingualsite\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\multilingualsite\\models\\clubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|solutionrelative:multilingualsite\\models\\clubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\multilingualsite\\models\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|solutionrelative:multilingualsite\\models\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\multilingualsite\\services\\readlangservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|solutionrelative:multilingualsite\\services\\readlangservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\multilingualsite\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|solutionrelative:multilingualsite\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\multilingualsite\\resources\\resource.uk.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|solutionrelative:multilingualsite\\resources\\resource.uk.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\multilingualsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|solutionrelative:multilingualsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\multilingualsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|solutionrelative:multilingualsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\multilingualsite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|solutionrelative:multilingualsite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\multilingualsite\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|solutionrelative:multilingualsite\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\multilingualsite\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|solutionrelative:multilingualsite\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\multilingualsite\\resources\\resource.fr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5AC7F988-FBA4-4332-A7F2-CDC5B9239F81}|MultilingualSite\\MultilingualSite.csproj|solutionrelative:multilingualsite\\resources\\resource.fr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Club.cs",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Models\\Club.cs",
+              "RelativeDocumentMoniker": "MultilingualSite\\Models\\Club.cs",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Models\\Club.cs",
+              "RelativeToolTip": "MultilingualSite\\Models\\Club.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T20:30:39.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Resource.uk.resx",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Resources\\Resource.uk.resx",
+              "RelativeDocumentMoniker": "MultilingualSite\\Resources\\Resource.uk.resx",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Resources\\Resource.uk.resx",
+              "RelativeToolTip": "MultilingualSite\\Resources\\Resource.uk.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-21T19:57:55.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReadLangServices.cs",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Services\\ReadLangServices.cs",
+              "RelativeDocumentMoniker": "MultilingualSite\\Services\\ReadLangServices.cs",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Services\\ReadLangServices.cs",
+              "RelativeToolTip": "MultilingualSite\\Services\\ReadLangServices.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:28:02.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Language.cs",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Models\\Language.cs",
+              "RelativeDocumentMoniker": "MultilingualSite\\Models\\Language.cs",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Models\\Language.cs",
+              "RelativeToolTip": "MultilingualSite\\Models\\Language.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:24:08.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateClub.cshtml",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Views\\Club\\CreateClub.cshtml",
+              "RelativeDocumentMoniker": "MultilingualSite\\Views\\Club\\CreateClub.cshtml",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Views\\Club\\CreateClub.cshtml",
+              "RelativeToolTip": "MultilingualSite\\Views\\Club\\CreateClub.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T06:56:24.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\appsettings.json",
+              "RelativeDocumentMoniker": "MultilingualSite\\appsettings.json",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\appsettings.json",
+              "RelativeToolTip": "MultilingualSite\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-28T08:44:16.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Program.cs",
+              "RelativeDocumentMoniker": "MultilingualSite\\Program.cs",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Program.cs",
+              "RelativeToolTip": "MultilingualSite\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:43:10.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Resource.fr.resx",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Resources\\Resource.fr.resx",
+              "RelativeDocumentMoniker": "MultilingualSite\\Resources\\Resource.fr.resx",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Resources\\Resource.fr.resx",
+              "RelativeToolTip": "MultilingualSite\\Resources\\Resource.fr.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-28T08:41:22.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MultilingualSite\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MultilingualSite\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T08:24:51.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Views\\Club\\Index.cshtml",
+              "RelativeDocumentMoniker": "MultilingualSite\\Views\\Club\\Index.cshtml",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Views\\Club\\Index.cshtml",
+              "RelativeToolTip": "MultilingualSite\\Views\\Club\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T06:56:36.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CultureAttribute.cs",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Filters\\CultureAttribute.cs",
+              "RelativeDocumentMoniker": "MultilingualSite\\Filters\\CultureAttribute.cs",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Filters\\CultureAttribute.cs",
+              "RelativeToolTip": "MultilingualSite\\Filters\\CultureAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:14:38.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClubContext.cs",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Models\\ClubContext.cs",
+              "RelativeDocumentMoniker": "MultilingualSite\\Models\\ClubContext.cs",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Models\\ClubContext.cs",
+              "RelativeToolTip": "MultilingualSite\\Models\\ClubContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T20:30:47.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MultilingualSite\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MultilingualSite\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T08:44:18.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClubController.cs",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Controllers\\ClubController.cs",
+              "RelativeDocumentMoniker": "MultilingualSite\\Controllers\\ClubController.cs",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Controllers\\ClubController.cs",
+              "RelativeToolTip": "MultilingualSite\\Controllers\\ClubController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:10:36.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MultilingualSite\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MultilingualSite\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T08:44:20.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MultilingualSite\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\15. Multilanguage site and localization\\MultilingualSite\\MultilingualSite\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MultilingualSite\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T08:44:21.804Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

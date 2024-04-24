@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using MusicPortal.Attributes;
 using MusicPortal.BLL.DTO;
 using MusicPortal.BLL.Interfaces;
 using MusicPortal.Models;
@@ -8,23 +9,26 @@ using MusicPortal.Repository;
 
 namespace MusicPortal.Controllers
 {
+    [Culture]
     public class UserController : Controller
     {
         private readonly IService<ArtistDTO> _artistRepo;
         private readonly IService<GenreDTO> _genreRepo;
         private readonly IService<UserDTO> _userRepo;
         private readonly IService<SongDTO> _songRepo;
+        private readonly ILanguage _langRepo;
         private readonly IWebHostEnvironment _hostingEnvironment;
 
         public UserController(IService<ArtistDTO> artistRepo, IService<GenreDTO> genreRepo,
                                IService<UserDTO> userRepo, IService<SongDTO> songRepo,
-                               IWebHostEnvironment appEnvironment)
+                               IWebHostEnvironment appEnvironment, ILanguage lang)
         {
             _artistRepo = artistRepo;
             _genreRepo = genreRepo;
             _userRepo = userRepo;
             _songRepo = songRepo;
             _hostingEnvironment = appEnvironment;
+            _langRepo = lang;   
         }
 
         public async Task<IActionResult> Upload()
@@ -34,6 +38,7 @@ namespace MusicPortal.Controllers
                 Artists = await _artistRepo.GetAllAsync(),
                 Genres = await _genreRepo.GetAllAsync()
             };
+            HttpContext.Session.SetString("path", Request.Path);
 
             return View(viewModel);
         }
@@ -126,6 +131,8 @@ namespace MusicPortal.Controllers
                 new FilterViewModel(allgenres, genre, position),
                 new SortViewModel(sortOrder)
             );
+            HttpContext.Session.SetString("path", Request.Path);
+
             return View(viewModel);
         }
 
@@ -150,7 +157,21 @@ namespace MusicPortal.Controllers
 
             return File(memory, "audio/mpeg", fileName);
         }
+        public ActionResult ChangeCulture(string lang)
+        {
+            string? returnUrl = HttpContext.Session.GetString("path") ?? "/Club/Index";
 
+            List<string> cultures = _langRepo.Languages().Select(t => t.ShortName).ToList()!;
+            if (!cultures.Contains(lang))
+            {
+                lang = "ru";
+            }
+
+            CookieOptions option = new CookieOptions();
+            option.Expires = DateTime.Now.AddDays(10); 
+            Response.Cookies.Append("lang", lang, option); 
+            return Redirect(returnUrl);
+        }
 
     }
 

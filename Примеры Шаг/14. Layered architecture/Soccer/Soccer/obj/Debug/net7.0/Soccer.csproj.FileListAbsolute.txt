@@ -1,0 +1,225 @@
+C:\Users\Admin\Downloads\Soccer\Soccer\obj\Debug\net7.0\Soccer.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Soccer\Soccer\obj\Debug\net7.0\Soccer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Soccer\Soccer\obj\Debug\net7.0\Soccer.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Soccer\Soccer\obj\Debug\net7.0\Soccer.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Soccer\Soccer\obj\Debug\net7.0\Soccer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Soccer\Soccer\obj\Debug\net7.0\Soccer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\Soccer\Soccer\obj\Debug\net7.0\Soccer.RazorAssemblyInfo.cache
+C:\Users\Admin\Downloads\Soccer\Soccer\obj\Debug\net7.0\Soccer.RazorAssemblyInfo.cs
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\appsettings.json
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Soccer.staticwebassets.runtime.json
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Soccer.exe
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Soccer.deps.json
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Soccer.runtimeconfig.json
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Soccer.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Soccer.pdb
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Soccer.BLL.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Soccer.DAL.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Soccer.BLL.pdb
+C:\Users\Admin\Downloads\Soccer\Soccer\bin\Debug\net7.0\Soccer.DAL.pdb
+C:\Users\Admin\Downloads\Soccer\Soccer\obj\Debug\net7.0\staticwebassets\msbuild.Soccer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Downloads\Soccer\Soccer\obj\Debug\net7.0\staticwebassets\msbuild.build.Soccer.props
+C:\Users\Admin\Downloads\Soccer\Soccer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Soccer.props
+C:\Users\Admin\Downloads\Soccer\Soccer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Soccer.props
+C:\Users\Admin\Downloads\Soccer\Soccer\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Admin\Downloads\Soccer\Soccer\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Admin\Downloads\Soccer\Soccer\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Admin\Downloads\Soccer\Soccer\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Downloads\Soccer\Soccer\obj\Debug\net7.0\scopedcss\bundle\Soccer.styles.css
+C:\Users\Admin\Downloads\Soccer\Soccer\obj\Debug\net7.0\scopedcss\projectbundle\Soccer.bundle.scp.css
+C:\Users\Admin\Downloads\Soccer\Soccer\obj\Debug\net7.0\Soccer.csproj.CopyComplete
+C:\Users\Admin\Downloads\Soccer\Soccer\obj\Debug\net7.0\Soccer.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\obj\Debug\net7.0\refint\Soccer.dll
+C:\Users\Admin\Downloads\Soccer\Soccer\obj\Debug\net7.0\Soccer.pdb
+C:\Users\Admin\Downloads\Soccer\Soccer\obj\Debug\net7.0\Soccer.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Soccer\Soccer\obj\Debug\net7.0\ref\Soccer.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\appsettings.Development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\appsettings.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Soccer.staticwebassets.runtime.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Soccer.exe
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Soccer.deps.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Soccer.runtimeconfig.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Soccer.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Soccer.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\AutoMapper.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Azure.Core.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Azure.Identity.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\System.Memory.Data.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Soccer.BLL.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Soccer.DAL.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Soccer.BLL.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Soccer.DAL.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\Soccer.csproj.AssemblyReference.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\Soccer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\Soccer.AssemblyInfoInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\Soccer.AssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\Soccer.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\Soccer.MvcApplicationPartsAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\Soccer.RazorAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\Soccer.RazorAssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\staticwebassets\msbuild.Soccer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\staticwebassets\msbuild.build.Soccer.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Soccer.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Soccer.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\scopedcss\bundle\Soccer.styles.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\scopedcss\projectbundle\Soccer.bundle.scp.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\Soccer.csproj.CopyComplete
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\Soccer.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\refint\Soccer.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\Soccer.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\Soccer.genruntimeconfig.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\15. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\ref\Soccer.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\appsettings.Development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\appsettings.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Soccer.staticwebassets.runtime.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Soccer.exe
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Soccer.deps.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Soccer.runtimeconfig.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Soccer.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Soccer.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\AutoMapper.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Azure.Core.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Azure.Identity.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\System.Memory.Data.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Soccer.BLL.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Soccer.DAL.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Soccer.BLL.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\bin\Debug\net7.0\Soccer.DAL.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\Soccer.csproj.AssemblyReference.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\Soccer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\Soccer.AssemblyInfoInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\Soccer.AssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\Soccer.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\Soccer.MvcApplicationPartsAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\Soccer.RazorAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\Soccer.RazorAssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\staticwebassets\msbuild.Soccer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\staticwebassets\msbuild.build.Soccer.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Soccer.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Soccer.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\scopedcss\bundle\Soccer.styles.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\scopedcss\projectbundle\Soccer.bundle.scp.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\Soccer.csproj.CopyComplete
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\Soccer.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\refint\Soccer.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\Soccer.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\Soccer.genruntimeconfig.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\13. Layered architecture\Soccer\Soccer\obj\Debug\net7.0\ref\Soccer.dll
