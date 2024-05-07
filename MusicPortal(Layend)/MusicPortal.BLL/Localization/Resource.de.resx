@@ -165,6 +165,9 @@
   <data name="GenreTitle" xml:space="preserve">
     <value>Genretitel</value>
   </data>
+  <data name="Hearing" xml:space="preserve">
+    <value>Hören</value>
+  </data>
   <data name="LogIn" xml:space="preserve">
     <value>Einloggen</value>
   </data>

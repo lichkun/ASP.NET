@@ -33,6 +33,9 @@
             <th>
                 @Localization.Resource.Download
             </th>
+            <th>
+                @Localization.Resource.Hearing
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -45,7 +48,7 @@
                 <td>
                     <a href="@Url.Action("Download", "User", new { id = song.Id })" class="btn btn-primary coal">@Localization.Resource.Download</a>
                 </td>
-                @* <td><audio src="@song.FilePath" controls></audio></td> *@
+                <td><audio src="@song.FilePath" controls></audio></td>
             </tr>
         }
     </tbody>

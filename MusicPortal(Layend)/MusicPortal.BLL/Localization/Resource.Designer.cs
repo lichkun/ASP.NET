@@ -241,6 +241,15 @@ namespace Localization {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Прослушивание.
+        /// </summary>
+        public static string Hearing {
+            get {
+                return ResourceManager.GetString("Hearing", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Войти.
         /// </summary>
         public static string LogIn {

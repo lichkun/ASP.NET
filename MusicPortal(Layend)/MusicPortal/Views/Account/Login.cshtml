@@ -4,6 +4,7 @@
     ViewBag.Title = @Localization.Resource.LogIn;
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
+
 <h1>@Localization.Resource.LogIn</h1>
 <hr />
 <div class="row">
@@ -31,4 +32,5 @@
     @{
         await Html.RenderPartialAsync("_ValidationScriptsPartial");
     }
+        
 }

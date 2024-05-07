@@ -177,6 +177,9 @@
   <data name="GenreTitle" xml:space="preserve">
     <value>Название жанра</value>
   </data>
+  <data name="Hearing" xml:space="preserve">
+    <value>Прослушивание</value>
+  </data>
   <data name="LogIn" xml:space="preserve">
     <value>Войти</value>
   </data>

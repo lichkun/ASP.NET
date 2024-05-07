@@ -32,15 +32,14 @@
                         </li>
                     </ul>
                 </div>
-                <form asp-action="ChangeCulture" asp-controller="User" style="display:flex; align-items: center" id="languageForm">
-                    <select name="lang" class="form-select bg-dark text-white" id="languageSelect">
+                <form asp-action="ChangeCulture" asp-controller="User" style="display:flex; align-items: center" id="languageForm" method="post">
+                    <select name="lang" class="form-select bg-dark text-white" onchange="submitForm()" id="languageSelect">
                         <option disabled selected>@Localization.Resource.ChooseLang</option>
                         @foreach (Language it in MyLangRead.Languages())
                         {
                             <option value=@it.ShortName>@it.Name</option>
                         }
                     </select>
-                    <input type="submit" name="submit" class="btn coal" style="margin-left: 10px" value="@Localization.Resource.ChooseLang">
                 </form>
             </div>
         </nav>
@@ -53,20 +52,12 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2024 - MusicPortal - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2024 - MusicPortal - <a>Privacy</a>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
-    <script>
-        $(document).ready(function () {
-            $("#languageSelect").change(function () {
-                console.log("меняю язык");
-                $("#languageForm").submit();
-            });
-        })
-    </script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

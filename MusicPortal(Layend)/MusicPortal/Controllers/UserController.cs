@@ -65,12 +65,21 @@ namespace MusicPortal.Controllers
                 viewModel.Genres = await _genreRepo.GetAllAsync();
                 return View(viewModel);
             }
-
-            var filePath = Path.Combine(_hostingEnvironment.WebRootPath, "files", file.FileName);
-            using (var stream = new FileStream(filePath, FileMode.Create))
+            string filePath = "";
+            if (file != null)
             {
-                await file.CopyToAsync(stream);
+                filePath = "/files/" + file.FileName;
+
+                using (var fileStream = new FileStream(_hostingEnvironment.WebRootPath + filePath, FileMode.Create))
+                {
+                    await file.CopyToAsync(fileStream);
+                }
             }
+            //var filePath = Path.Combine(_hostingEnvironment.WebRootPath, "files", file.FileName);
+            //using (var stream = new FileStream(filePath, FileMode.Create))
+            //{
+            //    await file.CopyToAsync(stream);
+            //}
 
             int? curId = HttpContext.Session.GetInt32("Id");
             var curUser = await _userRepo.GetByIdAsync(curId.Value);
