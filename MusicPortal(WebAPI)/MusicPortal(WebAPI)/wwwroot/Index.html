@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Список пользователей</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.0/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js"></script>
+    <style>
+        .content {
+            display: none; 
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <a href="#" id="linkUsers">Users</a>
+        <a href="#" id="linkArtists">Artists</a>
+        <a href="#" id="linkGenres">Genres</a>
+    </header>
+    <div id="contentUsers" class="content" style="display: block;">
+        <h2>Список пользователей</h2>
+        <form name="usersForm">
+            <input type="hidden" name="Id" value="0" />
+            <div class="form-group col-md-5">
+                <label for="login">Login:</label>
+                <input class="form-control" name="login" />
+            </div>
+            <div class="form-group col-md-5">
+                <label for="password">Password:</label>
+                <input class="form-control" name="password" />
+            </div>
+
+            <div class="form-group col-md-5">
+                <label for="status">Status:</label>
+                <input class="form-control" name="status" />
+            </div>
+            <div class="panel-body">
+                <a id="submit" class="btn btn-primary">Сохранить</a>
+                <a id="reset" class="btn btn-primary">Сбросить</a>
+            </div>
+        </form>
+        <table class="table table-condensed table-striped col-md-6" id="userstable">
+            <thead><tr><th>Id</th><th>Login</th><th>Password</th><th>Status</th><th></th></tr></thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+    <div id="contentArtists" class="content">
+        <h2>Список артистов</h2>
+        <form name="artistsForm">
+            <input type="hidden" name="Id" value="0" />
+            <div class="form-group col-md-5">
+                <label for="name">Name:</label>
+                <input class="form-control" name="name" />
+            </div>
+            <div class="panel-body">
+                <a id="submitArtist" class="btn btn-primary">Сохранить</a>
+                <a id="resetArtist" class="btn btn-primary">Сбросить</a>
+            </div>
+        </form>
+        <table class="table table-condensed table-striped col-md-6" id="artistsTable">
+            <thead><tr><th>Id</th><th>Name</th><th></th></tr></thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+    <div id="contentGenres" class="content">
+        <h2>Список жанров</h2>
+        <form name="genresForm">
+            <input type="hidden" name="Id" value="0" />
+            <div class="form-group col-md-5">
+                <label for="name">Name:</label>
+                <input class="form-control" name="name" />
+            </div>
+            <div class="panel-body">
+                <a id="submitGenres" class="btn btn-primary">Сохранить</a>
+                <a id="resetGenres" class="btn btn-primary">Сбросить</a>
+            </div>
+        </form>
+        <table class="table table-condensed table-striped col-md-6" id="genresTable">
+            <thead><tr><th>Id</th><th>Name</th><th></th></tr></thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+    <script src="scripts/script.js"></script>
+</body>
+</html>
