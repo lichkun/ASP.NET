@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "exMUUYaylBdDV93P9VhQ1BlwuktFMxcXY2w7mPVrVtM=",
+  "Source": "MusicPortal(WebAPI)",
+  "BasePath": "_content/MusicPortal(WebAPI)",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

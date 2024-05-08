@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gQOOdOxCtbd7NqVmytcJskVHXnZ3x8DhTJ/wox2kY0w=",
+  "Hash": "ZhETeTuBiqr3+TR72XA5ahs+ZU5D4cPqYwZ3SkXc2y4=",
   "Source": "MusicPortal(WebAPI)",
   "BasePath": "_content/MusicPortal(WebAPI)",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MusicPortal(WebAPI)\\wwwroot",
       "Source": "MusicPortal(WebAPI)",
-      "ContentRoot": "D:\\Проекты\\ADO.NET\\MusicPortal(WebAPI)\\MusicPortal(WebAPI)\\wwwroot\\",
+      "ContentRoot": "D:\\Проекты\\ASP.NET\\MusicPortal(WebAPI) CORS\\MusicPortal(WebAPI)\\wwwroot\\",
       "BasePath": "_content/MusicPortal(WebAPI)",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Проекты\\ADO.NET\\MusicPortal(WebAPI)\\MusicPortal(WebAPI)\\wwwroot\\Index.html",
+      "Identity": "D:\\Проекты\\ASP.NET\\MusicPortal(WebAPI) CORS\\MusicPortal(WebAPI)\\wwwroot\\Index.html",
       "SourceId": "MusicPortal(WebAPI)",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Проекты\\ADO.NET\\MusicPortal(WebAPI)\\MusicPortal(WebAPI)\\wwwroot\\",
+      "ContentRoot": "D:\\Проекты\\ASP.NET\\MusicPortal(WebAPI) CORS\\MusicPortal(WebAPI)\\wwwroot\\",
       "BasePath": "_content/MusicPortal(WebAPI)",
       "RelativePath": "Index.html",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\Index.html"
     },
     {
-      "Identity": "D:\\Проекты\\ADO.NET\\MusicPortal(WebAPI)\\MusicPortal(WebAPI)\\wwwroot\\scripts\\artists.js",
+      "Identity": "D:\\Проекты\\ASP.NET\\MusicPortal(WebAPI) CORS\\MusicPortal(WebAPI)\\wwwroot\\scripts\\artists.js",
       "SourceId": "MusicPortal(WebAPI)",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Проекты\\ADO.NET\\MusicPortal(WebAPI)\\MusicPortal(WebAPI)\\wwwroot\\",
+      "ContentRoot": "D:\\Проекты\\ASP.NET\\MusicPortal(WebAPI) CORS\\MusicPortal(WebAPI)\\wwwroot\\",
       "BasePath": "_content/MusicPortal(WebAPI)",
       "RelativePath": "scripts/artists.js",
       "AssetKind": "All",
@@ -55,12 +55,12 @@
       "OriginalItemSpec": "wwwroot\\scripts\\artists.js"
     },
     {
-      "Identity": "D:\\Проекты\\ADO.NET\\MusicPortal(WebAPI)\\MusicPortal(WebAPI)\\wwwroot\\scripts\\script.js",
+      "Identity": "D:\\Проекты\\ASP.NET\\MusicPortal(WebAPI) CORS\\MusicPortal(WebAPI)\\wwwroot\\scripts\\genres.js",
       "SourceId": "MusicPortal(WebAPI)",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Проекты\\ADO.NET\\MusicPortal(WebAPI)\\MusicPortal(WebAPI)\\wwwroot\\",
+      "ContentRoot": "D:\\Проекты\\ASP.NET\\MusicPortal(WebAPI) CORS\\MusicPortal(WebAPI)\\wwwroot\\",
       "BasePath": "_content/MusicPortal(WebAPI)",
-      "RelativePath": "scripts/script.js",
+      "RelativePath": "scripts/genres.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scripts\\script.js"
+      "OriginalItemSpec": "wwwroot\\scripts\\genres.js"
     },
     {
-      "Identity": "D:\\Проекты\\ADO.NET\\MusicPortal(WebAPI)\\MusicPortal(WebAPI)\\wwwroot\\scripts\\users.js",
+      "Identity": "D:\\Проекты\\ASP.NET\\MusicPortal(WebAPI) CORS\\MusicPortal(WebAPI)\\wwwroot\\scripts\\users.js",
       "SourceId": "MusicPortal(WebAPI)",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Проекты\\ADO.NET\\MusicPortal(WebAPI)\\MusicPortal(WebAPI)\\wwwroot\\",
+      "ContentRoot": "D:\\Проекты\\ASP.NET\\MusicPortal(WebAPI) CORS\\MusicPortal(WebAPI)\\wwwroot\\",
       "BasePath": "_content/MusicPortal(WebAPI)",
       "RelativePath": "scripts/users.js",
       "AssetKind": "All",

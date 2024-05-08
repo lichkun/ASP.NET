@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Проекты\\ASP.NET\\MusicPortal(WebAPI) CORS\\ClientMusicPortal\\ClientMusicPortal\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "D:\\Проекты\\ASP.NET\\MusicPortal(WebAPI) CORS\\ClientMusicPortal\\ClientMusicPortal\\wwwroot\\scripts\\artists.js",
+      "PackagePath": "staticwebassets\\scripts\\artists.js"
+    },
+    {
+      "Id": "D:\\Проекты\\ASP.NET\\MusicPortal(WebAPI) CORS\\ClientMusicPortal\\ClientMusicPortal\\wwwroot\\scripts\\genres.js",
+      "PackagePath": "staticwebassets\\scripts\\genres.js"
+    },
+    {
+      "Id": "D:\\Проекты\\ASP.NET\\MusicPortal(WebAPI) CORS\\ClientMusicPortal\\ClientMusicPortal\\wwwroot\\scripts\\users.js",
+      "PackagePath": "staticwebassets\\scripts\\users.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ClientMusicPortal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ClientMusicPortal.props",
+      "PackagePath": "build\\ClientMusicPortal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ClientMusicPortal.props",
+      "PackagePath": "buildMultiTargeting\\ClientMusicPortal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ClientMusicPortal.props",
+      "PackagePath": "buildTransitive\\ClientMusicPortal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,19 +1,19 @@
 {
   "Files": [
     {
-      "Id": "D:\\Проекты\\ADO.NET\\MusicPortal(WebAPI)\\MusicPortal(WebAPI)\\wwwroot\\Index.html",
+      "Id": "D:\\Проекты\\ASP.NET\\MusicPortal(WebAPI) CORS\\MusicPortal(WebAPI)\\wwwroot\\Index.html",
       "PackagePath": "staticwebassets\\Index.html"
     },
     {
-      "Id": "D:\\Проекты\\ADO.NET\\MusicPortal(WebAPI)\\MusicPortal(WebAPI)\\wwwroot\\scripts\\artists.js",
+      "Id": "D:\\Проекты\\ASP.NET\\MusicPortal(WebAPI) CORS\\MusicPortal(WebAPI)\\wwwroot\\scripts\\artists.js",
       "PackagePath": "staticwebassets\\scripts\\artists.js"
     },
     {
-      "Id": "D:\\Проекты\\ADO.NET\\MusicPortal(WebAPI)\\MusicPortal(WebAPI)\\wwwroot\\scripts\\script.js",
-      "PackagePath": "staticwebassets\\scripts\\script.js"
+      "Id": "D:\\Проекты\\ASP.NET\\MusicPortal(WebAPI) CORS\\MusicPortal(WebAPI)\\wwwroot\\scripts\\genres.js",
+      "PackagePath": "staticwebassets\\scripts\\genres.js"
     },
     {
-      "Id": "D:\\Проекты\\ADO.NET\\MusicPortal(WebAPI)\\MusicPortal(WebAPI)\\wwwroot\\scripts\\users.js",
+      "Id": "D:\\Проекты\\ASP.NET\\MusicPortal(WebAPI) CORS\\MusicPortal(WebAPI)\\wwwroot\\scripts\\users.js",
       "PackagePath": "staticwebassets\\scripts\\users.js"
     },
     {
