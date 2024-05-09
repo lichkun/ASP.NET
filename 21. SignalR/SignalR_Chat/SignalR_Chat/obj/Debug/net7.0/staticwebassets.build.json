@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Hf6FWkl+LhkFNmaAXy+mIX4JafFTzkO6iqoACvseE/s=",
+  "Source": "SignalR_Chat",
+  "BasePath": "_content/SignalR_Chat",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SignalR_Chat\\wwwroot",
+      "Source": "SignalR_Chat",
+      "ContentRoot": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\23. SignalR\\SignalR_Chat\\SignalR_Chat\\wwwroot\\",
+      "BasePath": "_content/SignalR_Chat",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\23. SignalR\\SignalR_Chat\\SignalR_Chat\\wwwroot\\index.html",
+      "SourceId": "SignalR_Chat",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\23. SignalR\\SignalR_Chat\\SignalR_Chat\\wwwroot\\",
+      "BasePath": "_content/SignalR_Chat",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

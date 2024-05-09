@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\23. SignalR\\SignalR_Draw\\SignalR_Draw\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SignalR_Draw.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SignalR_Draw.props",
+      "PackagePath": "build\\SignalR_Draw.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SignalR_Draw.props",
+      "PackagePath": "buildMultiTargeting\\SignalR_Draw.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SignalR_Draw.props",
+      "PackagePath": "buildTransitive\\SignalR_Draw.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

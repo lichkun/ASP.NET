@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\20 SignalR\\SignalR_Chat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E572EE4-3C1B-4192-8790-58A1E81B96C9}|SignalR_Chat\\SignalR_Chat.csproj|d:\\itstep\\asp.net\\asp.net core\\20 signalr\\signalr_chat\\signalr_chat\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E572EE4-3C1B-4192-8790-58A1E81B96C9}|SignalR_Chat\\SignalR_Chat.csproj|solutionrelative:signalr_chat\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E572EE4-3C1B-4192-8790-58A1E81B96C9}|SignalR_Chat\\SignalR_Chat.csproj|d:\\itstep\\asp.net\\asp.net core\\20 signalr\\signalr_chat\\signalr_chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E572EE4-3C1B-4192-8790-58A1E81B96C9}|SignalR_Chat\\SignalR_Chat.csproj|solutionrelative:signalr_chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E572EE4-3C1B-4192-8790-58A1E81B96C9}|SignalR_Chat\\SignalR_Chat.csproj|d:\\itstep\\asp.net\\asp.net core\\20 signalr\\signalr_chat\\signalr_chat\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E572EE4-3C1B-4192-8790-58A1E81B96C9}|SignalR_Chat\\SignalR_Chat.csproj|solutionrelative:signalr_chat\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\20 SignalR\\SignalR_Chat\\SignalR_Chat\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SignalR_Chat\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\20 SignalR\\SignalR_Chat\\SignalR_Chat\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SignalR_Chat\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T19:24:55.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\20 SignalR\\SignalR_Chat\\SignalR_Chat\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "SignalR_Chat\\wwwroot\\index.html",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\20 SignalR\\SignalR_Chat\\SignalR_Chat\\wwwroot\\index.html",
+              "RelativeToolTip": "SignalR_Chat\\wwwroot\\index.html",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAGAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-04T19:23:50.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\20 SignalR\\SignalR_Chat\\SignalR_Chat\\Program.cs",
+              "RelativeDocumentMoniker": "SignalR_Chat\\Program.cs",
+              "ToolTip": "D:\\ITSTEP\\ASP.NET\\ASP.NET Core\\20 SignalR\\SignalR_Chat\\SignalR_Chat\\Program.cs",
+              "RelativeToolTip": "SignalR_Chat\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T19:21:16.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

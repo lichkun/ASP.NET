@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "VD2YUabSuq2R+CbOvMC6qMVJTr7vh/BQy4Sp4JSyfOo=",
+  "Source": "SignalR_Draw",
+  "BasePath": "_content/SignalR_Draw",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SignalR_Draw\\wwwroot",
+      "Source": "SignalR_Draw",
+      "ContentRoot": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\23. SignalR\\SignalR_Draw\\SignalR_Draw\\wwwroot\\",
+      "BasePath": "_content/SignalR_Draw",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\23. SignalR\\SignalR_Draw\\SignalR_Draw\\wwwroot\\index.html",
+      "SourceId": "SignalR_Draw",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ITSTEP\\ASP.NET\\Примеры\\ASP.NET Core\\23. SignalR\\SignalR_Draw\\SignalR_Draw\\wwwroot\\",
+      "BasePath": "_content/SignalR_Draw",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\bin\Debug\net7.0\appsettings.json
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\bin\Debug\net7.0\SignalR_Chat.staticwebassets.runtime.json
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\bin\Debug\net7.0\SignalR_Chat.exe
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\bin\Debug\net7.0\SignalR_Chat.deps.json
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\bin\Debug\net7.0\SignalR_Chat.runtimeconfig.json
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\bin\Debug\net7.0\SignalR_Chat.dll
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\bin\Debug\net7.0\SignalR_Chat.pdb
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\SignalR_Chat.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\SignalR_Chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\SignalR_Chat.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\SignalR_Chat.AssemblyInfo.cs
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\SignalR_Chat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\SignalR_Chat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\staticwebassets\msbuild.SignalR_Chat.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\staticwebassets\msbuild.build.SignalR_Chat.props
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SignalR_Chat.props
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SignalR_Chat.props
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\scopedcss\bundle\SignalR_Chat.styles.css
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\SignalR_Chat.dll
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\refint\SignalR_Chat.dll
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\SignalR_Chat.pdb
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\SignalR_Chat.genruntimeconfig.cache
+C:\Users\Admin\Downloads\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\ref\SignalR_Chat.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net7.0\appsettings.Development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net7.0\appsettings.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net7.0\SignalR_Chat.staticwebassets.runtime.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net7.0\SignalR_Chat.exe
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net7.0\SignalR_Chat.deps.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net7.0\SignalR_Chat.runtimeconfig.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net7.0\SignalR_Chat.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net7.0\SignalR_Chat.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\SignalR_Chat.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\SignalR_Chat.AssemblyInfoInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\SignalR_Chat.AssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\SignalR_Chat.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\SignalR_Chat.MvcApplicationPartsAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\staticwebassets\msbuild.SignalR_Chat.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\staticwebassets\msbuild.build.SignalR_Chat.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SignalR_Chat.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SignalR_Chat.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\scopedcss\bundle\SignalR_Chat.styles.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\SignalR_Chat.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\refint\SignalR_Chat.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\SignalR_Chat.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\SignalR_Chat.genruntimeconfig.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net7.0\ref\SignalR_Chat.dll

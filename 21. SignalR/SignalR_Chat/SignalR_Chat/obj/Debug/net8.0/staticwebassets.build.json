@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "4O3gy5+WJUb3Lh3Xk9MznjOaWwDeTp+ZW+xYUFH9XTA=",
+  "Source": "SignalR_Chat",
+  "BasePath": "_content/SignalR_Chat",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SignalR_Chat\\wwwroot",
+      "Source": "SignalR_Chat",
+      "ContentRoot": "D:\\Documents\\Downloads\\OneDrive_2024-05-09\\21. SignalR\\SignalR_Chat\\SignalR_Chat\\wwwroot\\",
+      "BasePath": "_content/SignalR_Chat",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Documents\\Downloads\\OneDrive_2024-05-09\\21. SignalR\\SignalR_Chat\\SignalR_Chat\\wwwroot\\index.html",
+      "SourceId": "SignalR_Chat",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Documents\\Downloads\\OneDrive_2024-05-09\\21. SignalR\\SignalR_Chat\\SignalR_Chat\\wwwroot\\",
+      "BasePath": "_content/SignalR_Chat",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

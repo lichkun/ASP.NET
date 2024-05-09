@@ -1,0 +1,120 @@
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\appsettings.Development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\appsettings.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\SignalR_Chat.staticwebassets.runtime.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\SignalR_Chat.exe
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\SignalR_Chat.deps.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\SignalR_Chat.runtimeconfig.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\SignalR_Chat.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\SignalR_Chat.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\SignalR_Chat.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\SignalR_Chat.AssemblyInfoInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\SignalR_Chat.AssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\SignalR_Chat.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\SignalR_Chat.MvcApplicationPartsAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\staticwebassets.build.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\staticwebassets.development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\staticwebassets\msbuild.SignalR_Chat.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\staticwebassets\msbuild.build.SignalR_Chat.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SignalR_Chat.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SignalR_Chat.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\scopedcss\bundle\SignalR_Chat.styles.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\SignalR_Chat.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\refint\SignalR_Chat.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\SignalR_Chat.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\SignalR_Chat.genruntimeconfig.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\23. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\ref\SignalR_Chat.dll
+D:\ITSTEP\ASP.NET\ASP.NET Core\20 SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\appsettings.Development.json
+D:\ITSTEP\ASP.NET\ASP.NET Core\20 SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\appsettings.json
+D:\ITSTEP\ASP.NET\ASP.NET Core\20 SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\SignalR_Chat.staticwebassets.runtime.json
+D:\ITSTEP\ASP.NET\ASP.NET Core\20 SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\SignalR_Chat.exe
+D:\ITSTEP\ASP.NET\ASP.NET Core\20 SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\SignalR_Chat.deps.json
+D:\ITSTEP\ASP.NET\ASP.NET Core\20 SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\SignalR_Chat.runtimeconfig.json
+D:\ITSTEP\ASP.NET\ASP.NET Core\20 SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\SignalR_Chat.dll
+D:\ITSTEP\ASP.NET\ASP.NET Core\20 SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\SignalR_Chat.pdb
+D:\ITSTEP\ASP.NET\ASP.NET Core\20 SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\SignalR_Chat.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ASP.NET\ASP.NET Core\20 SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\SignalR_Chat.AssemblyInfoInputs.cache
+D:\ITSTEP\ASP.NET\ASP.NET Core\20 SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\SignalR_Chat.AssemblyInfo.cs
+D:\ITSTEP\ASP.NET\ASP.NET Core\20 SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\SignalR_Chat.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ASP.NET\ASP.NET Core\20 SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\SignalR_Chat.MvcApplicationPartsAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\ASP.NET Core\20 SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\staticwebassets.build.json
+D:\ITSTEP\ASP.NET\ASP.NET Core\20 SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\staticwebassets.development.json
+D:\ITSTEP\ASP.NET\ASP.NET Core\20 SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\staticwebassets\msbuild.SignalR_Chat.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITSTEP\ASP.NET\ASP.NET Core\20 SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\staticwebassets\msbuild.build.SignalR_Chat.props
+D:\ITSTEP\ASP.NET\ASP.NET Core\20 SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SignalR_Chat.props
+D:\ITSTEP\ASP.NET\ASP.NET Core\20 SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SignalR_Chat.props
+D:\ITSTEP\ASP.NET\ASP.NET Core\20 SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ITSTEP\ASP.NET\ASP.NET Core\20 SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\scopedcss\bundle\SignalR_Chat.styles.css
+D:\ITSTEP\ASP.NET\ASP.NET Core\20 SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\SignalR_Chat.dll
+D:\ITSTEP\ASP.NET\ASP.NET Core\20 SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\refint\SignalR_Chat.dll
+D:\ITSTEP\ASP.NET\ASP.NET Core\20 SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\SignalR_Chat.pdb
+D:\ITSTEP\ASP.NET\ASP.NET Core\20 SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\SignalR_Chat.genruntimeconfig.cache
+D:\ITSTEP\ASP.NET\ASP.NET Core\20 SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\ref\SignalR_Chat.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\appsettings.Development.json
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\appsettings.json
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\SignalR_Chat.staticwebassets.runtime.json
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\SignalR_Chat.exe
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\SignalR_Chat.deps.json
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\SignalR_Chat.runtimeconfig.json
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\SignalR_Chat.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\SignalR_Chat.pdb
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\Azure.Core.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\Azure.Identity.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\Castle.Core.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\SignalR_Chat.csproj.AssemblyReference.cache
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\SignalR_Chat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\SignalR_Chat.AssemblyInfoInputs.cache
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\SignalR_Chat.AssemblyInfo.cs
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\SignalR_Chat.csproj.CoreCompileInputs.cache
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\SignalR_Chat.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\staticwebassets.build.json
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\staticwebassets.development.json
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\staticwebassets\msbuild.SignalR_Chat.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\staticwebassets\msbuild.build.SignalR_Chat.props
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SignalR_Chat.props
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SignalR_Chat.props
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\scopedcss\bundle\SignalR_Chat.styles.css
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\SignalR_Chat.csproj.CopyComplete
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\SignalR_Chat.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\refint\SignalR_Chat.dll
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\SignalR_Chat.pdb
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\SignalR_Chat.genruntimeconfig.cache
+D:\Documents\Downloads\OneDrive_2024-05-09\21. SignalR\SignalR_Chat\SignalR_Chat\obj\Debug\net8.0\ref\SignalR_Chat.dll
