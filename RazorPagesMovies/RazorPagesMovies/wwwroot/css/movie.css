@@ -1,0 +1,80 @@
+﻿body {
+    background-color: #333; 
+    color: #fff; 
+}
+
+table {
+    background-color: #444;
+}
+table tr{
+    padding-bottom:10px;
+}
+table td {
+    color: #fff;
+}
+
+.movie-container {
+    margin-bottom: 10px;
+}
+
+img {
+    max-width: 150px;
+    border-radius: 5px;
+}
+
+.movie-title {
+    color: #00CED1; 
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.movie-description {
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+a {
+    color: black;
+    text-decoration:none;
+    padding: 8px 16px;
+    background-color: #00CED1;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 16px;
+    transition: 0.3s ease;
+}
+a:hover {
+    background-color: #008B8B;
+    color: white;
+}
+.mybtn {
+    background-color: #00CED1;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-radius: 16px;
+    padding: 8px 16px;
+    transition: 0.3s ease;
+    color: black;
+    border: none;
+}
+.mybtn:hover {
+    background-color: #008B8B;
+    color: white;
+}
+.form-group input {
+    border-top: #00CED1;
+    border-left: #00CED1;
+    border-right: #00CED1;
+    color: black;
+}
+.form-group input:focus {
+    background: none;
+    outline: none;
+    color:white;
+}
+input.form-control {
+    background: none;
+    color: white;
+}
